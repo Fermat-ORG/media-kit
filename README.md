@@ -5,6 +5,7 @@
 
 
 # Fermat Brand Media-kit 
+-----------------------
 
 ###### These graphics are intended to be used to preserve the image of Fermat to be mentioned in a blog or in print. Do not use other artwork from our site without authorization or imply sponsorship, endorsement, or false association with Fermat.
 
@@ -12,14 +13,14 @@
 
 
 ## Logotype Color
-
+-----------------------
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Logotype/Fermat-full-color-and-one-color.png "Fermat Logo")
 
 
 <br><br>
 
 ## Codes Color
-
+-----------------------
 <br><br>
 
 ### HEXADECIMAL COLOR
@@ -40,7 +41,7 @@
 
 
 ## Typography 
-
+-----------------------
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Typography/module-typography.png "TYPOGRAPHY")
 
@@ -49,7 +50,7 @@
 
 
 ## Background
-
+-----------------------
 #### Bitcoins
 
 ##### Bitcoins Front side
