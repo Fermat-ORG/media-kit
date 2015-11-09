@@ -30,7 +30,23 @@
 
 <br><br>
 
-# BACKGROUNG
+# APPLYING
+
+### LOGOTYPE
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/APPLYING/Fermat_BTC_scn_applying_01_3.jpg "COLOR CODE")
+
+
+### ONLY TEXT
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/APPLYING/Fiat_dollar_applying_art_1.jpg "COLOR CODE")
+
+
+
+### XAMPLE APPLYING 3
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/APPLYING/Fiat_pound_applying_art_1.jpg "COLOR CODE")
+
 
 
 
