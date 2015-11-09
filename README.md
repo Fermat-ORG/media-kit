@@ -39,11 +39,13 @@
 
 ### ONLY TEXT
 
+#### XAMPLE 1
+
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/APPLYING/Fiat_dollar_applying_art_1.jpg "COLOR CODE")
 
 
 
-### XAMPLE APPLYING 3
+#### XAMPLE 2
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/APPLYING/Fiat_pound_applying_art_1.jpg "COLOR CODE")
 
