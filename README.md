@@ -11,7 +11,7 @@
 <br><br>
 
 
-## Color Logo
+## Logo Color
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/LOGOTYPE/LOGO.png "Fermat Logo")
 
