@@ -109,7 +109,7 @@ To [ **Download** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fiat_pound_scn_1_low.jpg "FIAT SCENE 4")
 
-To  [ **Download** ] (https://github.com/bitDubai/media-kit/tree/master/BACKGROUND) all background
+To  [ **Download** ] (https://github.com/bitDubai/media-kit/tree/master/BACKGROUND) all backgrounds
 
 <br><br><br><br><br><br><br><br>
 
