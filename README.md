@@ -18,7 +18,7 @@
 
 <br><br>
 
-# COLORS CODE
+## Colors Code
 
 <br><br>
 
@@ -38,7 +38,7 @@
 
 <br><br>
 
-# APPLYING
+## Applying
 
 ### LOGOTYPE
 
@@ -58,19 +58,19 @@
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/APPLYING/Fiat_pound_applying_art_1.jpg "COLOR CODE")
 
 
-# BACKGROUND
+## Background
 
 #### Fiat Currencies
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/BACKGROUND/FiatCoins/Fiat_art.jpg "COLOR CODE")
 
 
-#### Bit Coins
+#### Bitcoins
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/BACKGROUND/FermatBitCoinsScene/Scene%231/Fermat_BTC_scn_01_2_BAJA.jpg "COLOR CODE")
 
 
-# TYPOGRAPHY MODULE
+## Typography MModule
 
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/TYPOGRAPHY/module-typography.png "TYPOGRAPHY")
