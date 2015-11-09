@@ -1,8 +1,5 @@
 # Fermat Brand Media-kit 
-
 <br><br>
-
-
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/FULL%20COLOR%20LOGO/logo_fermat_2.png "Fermat Logo")
 
 
