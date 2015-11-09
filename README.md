@@ -1,6 +1,6 @@
 
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/FULL%20COLOR%20LOGO/logo_fermat_2.png "Fermat Logo")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
 
 
