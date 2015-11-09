@@ -11,14 +11,14 @@
 <br><br>
 
 
-## Logo Color
+## Logotype Color
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Logotype/Fermat-full-color-and-one-color.png "Fermat Logo")
 
 
 <br><br>
 
-## Color Codes
+## Codes Color
 
 <br><br>
 
@@ -37,6 +37,16 @@
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Code%20Colors/code_color_logo-03.jpg "COLOR CODE")
 
 <br><br>
+
+
+## Typography 
+
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Typography/module-typography.png "TYPOGRAPHY")
+
+
+<br><br>
+
 
 ## Background
 
@@ -95,13 +105,6 @@
 ##### Scene 4
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fiat_pound_scn_1_low.jpg "FIAT SCENE 4")
-
-
-## Typography 
-
-
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Typography/module-typography.png "TYPOGRAPHY")
-
 
 
 
