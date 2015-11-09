@@ -18,7 +18,7 @@
 
 <br><br>
 
-## Colors Codes
+## Color Codes
 
 <br><br>
 
