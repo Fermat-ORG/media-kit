@@ -1,9 +1,11 @@
-# media-kit 
+# Fermat Brand Media-kit 
+
+<br><br>
 
 
-# These graphics are intended to be used to preserve the image of Fermat to be mentioned in a blog or in print. Do not use other artwork from our site without authorization or imply sponsorship, endorsement, or false association with Fermat.
+#### These graphics are intended to be used to preserve the image of Fermat to be mentioned in a blog or in print. Do not use other artwork from our site without authorization or imply sponsorship, endorsement, or false association with Fermat.
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/FULL%20COLOR%20LOGO/logo_fermat.png "Fermat Logo")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/FULL%20COLOR%20LOGO/logo_github_readme.jpg "Fermat Logo")
 
 <br><br>
 
