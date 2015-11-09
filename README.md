@@ -13,7 +13,7 @@
 
 ## Logo Color
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/LOGOTYPE/LOGO.png "Fermat Logo")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Logotype/Fermat-full-color-and-one-color.png "Fermat Logo")
 
 
 <br><br>
