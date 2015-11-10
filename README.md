@@ -41,7 +41,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 ## Typography 
 
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Typography/module-typography.png "TYPOGRAPHY")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Typography/module-typography2.png "TYPOGRAPHY")
 
 
 <br><br>
