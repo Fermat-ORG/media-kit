@@ -160,7 +160,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 #### Operating System Api Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/OSA.png "Operating System Api")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/OSA.jpg "Operating System Api")
 
 ======
 
