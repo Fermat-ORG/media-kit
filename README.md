@@ -4,7 +4,7 @@
 
 <br><br>
 
-###### These graphics are intended to be used to preserve the image of Fermat to be mentioned in a blog or in print. Do not use other artwork from our site without authorization or imply sponsorship, endorsement, or false association with Fermat.
+###### These graphics are intended to be used freely by the media and are intended to preserve the image of Fermat when mentioned in a blog, in print or the media in general. Do not use other artwork from outside this repository without authorization or imply sponsorship, endorsement, or false association with Fermat.
 
 ======
 
