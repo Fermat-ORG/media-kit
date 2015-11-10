@@ -194,6 +194,8 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 
 ======
 
+Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Coins) to get all Coin Images
+
 
 <br><br>
 
