@@ -14,7 +14,7 @@
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
 
-Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%203D) to get all logo files
+Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%203D) to get all logo files.
 
 <br><br>
 
@@ -193,7 +193,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 
 ======
 
-Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Coins) to get all Coin Images
+Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Coins) to get all Coin Images.
 
 
 <br><br>
@@ -254,7 +254,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Coins) to 
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fiat_pound_scn_1_low.jpg "FIAT SCENE 4")
 
-Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Backgrounds) to get all backgrounds files
+Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Backgrounds) to get all backgrounds files.
 
 <br><br><br><br><br><br><br><br>
 
