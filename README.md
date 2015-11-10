@@ -50,16 +50,16 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 ## Coins 
 
 
-##### Fermat Bitcoins
+### Fermat Bitcoins
 ======
 
-####### Bitcoins Front side
+#### Bitcoins Front side
 
 ======
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Front_Bitcoin_scn_low.jpg "BIT COIN FRONT SIDE")
 ======
 
-####### Bitcoins Back side
+####Bitcoins Back side
 
 ======
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Back_Bitcoin_scn_low.jpg "BIT COIN BACK SIDE")
@@ -71,19 +71,19 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 ------
 
 
-##### Scene 1
+#### Scene 1
 ======
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fermat_BTC_scn_1_low.jpg "SCENE 1")
 
-##### Scene 2
+#### Scene 2
 ======
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fermat_BTC_scn__2_low.jpg "SCENE 2")
 
-##### Scene 3
+#### Scene 3
 ======
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fermat_BTC_scn__3_low.jpg "SCENE 3")
 
-##### Scene 4
+#### Scene 4
 ======
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fermat_BTC_scn_4_low.jpg "SCENE 4")
@@ -98,24 +98,24 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fiat_scn_1_low.jpg "FIAT SCENE")
 
 
-##### Scene 1
+#### Scene 1
 ======
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fiat_dollar_scn_1_low.jpg "FIAT SCENE 1")
 
-##### Scene 2
+#### Scene 2
 ======
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fiat_dollar_scn_2_low.jpg "FIAT SCENE 2")
 
 
-##### Scene 3
+#### Scene 3
 ======
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fiat_euro_scn_1_low.jpg "FIAT SCENE 3")
 
 
-##### Scene 4
+#### Scene 4
 ======
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fiat_pound_scn_1_low.jpg "FIAT SCENE 4")
