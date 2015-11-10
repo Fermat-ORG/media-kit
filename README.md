@@ -22,25 +22,25 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 
 ------
 
-### HEXADECIMAL COLOR
-
+### Hexadecimal Color
+======
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Code%20Colors/code_color_logo-01.jpg "COLOR CODE")
 
 
-### CMYK COLOR
-
+### CMYK Color
+======
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Code%20Colors/code_color_logo-02.jpg "COLOR CODE")
 
 
-### RGB COLOR
-
+### RGB Color
+======
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Code%20Colors/code_color_logo-03.jpg "COLOR CODE")
 
 <br><br>
 
 
 ## Typography 
------------------------
+
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Typography/module-typography.png "TYPOGRAPHY")
 
@@ -48,19 +48,30 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 <br><br>
 
 
-### Background
+### Coins 
 ------
+##### Fermat Bitcoins
+======
 
-#### Bitcoins
+####### Bitcoins Front side
 
-##### Bitcoins Front side
 ======
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Front_Bitcoin_scn_low.jpg "BIT COIN FRONT SIDE")
 ======
-##### Bitcoins Back side
+
+####### Bitcoins Back side
+
 ======
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Back_Bitcoin_scn_low.jpg "BIT COIN BACK SIDE")
 ======
+
+
+
+### Background
+------
+
+
+
 
 ##### Scene 1
 ======
