@@ -18,11 +18,8 @@
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Logotype/Fermat-full-color-and-one-color.png "Fermat Logo")
 
-To [ **Download** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%203D) all 3D logotypes files 
 
-To [ **Download** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%20One%20Color) all one color logotypes files 
-
-To [ **Download** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%20Full%20Color) all full color logotypes files 
+Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%203D) all 3D logotypes files  for get all files
 
 <br><br>
 
