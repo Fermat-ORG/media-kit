@@ -60,14 +60,142 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 
 ======
 
-####Bitcoins Back side
+#### Bitcoins Back side
 ======
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Back_Bitcoin_scn_low.jpg "BIT COIN BACK SIDE")
 
 ======
 
+#### Blockchain Coin
+======
 
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/BCH.jpg "Blockchain")
+
+======
+
+#### Banking Platform Coin
+======
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/BNK.jpg "Banking Platform")
+
+======
+
+#### Bank Notes Platform Coin
+======
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/BNP.jpg "Bank Notes Platform")
+
+======
+
+#### Crypto Broker Platform Coin
+======
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/CBP.jpg "Crypto Broker Platform")
+
+======
+
+#### Crypto Commodity Money Platform Coin
+======
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/CCM.jpg "Crypto Commodity Money Platform")
+
+======
+
+#### Crypto Currency Platform Coin
+======
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/CCP.jpg "Crypto Currency Platform")
+
+======
+
+#### Crypto Distribution Network Platform Coin
+======
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/CDN.jpg "Crypto Distribution Network Platform")
+
+======
+
+#### Core And Api Coin
+======
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/COR.jpg "Core And Api")
+
+======
+
+#### Cash Platform Coin
+======
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/CSH.jpg "Cash Platform")
+
+======
+
+#### Digital Asset Platform Coin
+======
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/DAP.jpg "Digital Asset Platform")
+
+======
+
+#### Digital Money Platform Coin
+======
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/DMP.jpg "Digital Money Platform")
+
+======
+
+#### Device Private Platform Coin
+======
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/DPN.jpg "Device Private Platform")
+
+======
+
+#### Marketing Platform Coin
+======
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/MKT.jpg "Marketing Platform")
+
+======
+
+#### Operating System Api Coin
+======
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/OSA.png "Operating System Api")
+
+======
+
+#### Peer to Peer Network Coin
+======
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/P2P.jpg "Peer to Peer Network")
+
+======
+
+#### Plugins Platform Coin
+======
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/PIP.jpg "Plugins Platform")
+
+======
+
+#### Shopping Platform Coin
+======
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/SHP.jpg "Shopping Platform")
+
+======
+
+
+#### Wallet Production and Distribution Coin
+======
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/WPD.jpg "Shopping Platform")
+
+======
+
+
+<br><br>
 
 ### Background
 ------
