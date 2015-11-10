@@ -50,10 +50,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 ## Coins 
 
 
-### Fermat Bitcoins
-------
-
-#### Bitcoins Front side
+#### Fermat Bitcoins Front side
 ======
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Front_Bitcoin_scn_low.jpg "BIT COIN FRONT SIDE")
