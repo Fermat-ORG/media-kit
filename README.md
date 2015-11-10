@@ -48,7 +48,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 
 
 ## Coins 
-
+<br><br>
 
 #### Fermat Bitcoins Front side
 ======
@@ -56,13 +56,15 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Front_Bitcoin_scn_low.jpg "BIT COIN FRONT SIDE")
 
 ======
+<br><br>
 
-#### Bitcoins Back side
+#### Fermat Bitcoins Back side
 ======
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Back_Bitcoin_scn_low.jpg "BIT COIN BACK SIDE")
 
 ======
+<br><br>
 
 #### Blockchain Coin
 ======
