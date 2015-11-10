@@ -1,9 +1,5 @@
 
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Logotype/Fermat_Logo_3D.png "Fermat Logo")
-
-
-
 # Fermat Brand Media-kit 
 
 <br><br>
@@ -15,11 +11,7 @@
 
 <br><br>
 
-### Logotype Color
-
-------
-
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Logotype/Fermat-full-color-and-one-color.png "Fermat Logo")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
 
 Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%203D) to get all files
