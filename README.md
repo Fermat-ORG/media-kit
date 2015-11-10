@@ -5,11 +5,11 @@
 
 
 # Fermat Brand Media-kit 
-======
+
 
 ###### These graphics are intended to be used to preserve the image of Fermat to be mentioned in a blog or in print. Do not use other artwork from our site without authorization or imply sponsorship, endorsement, or false association with Fermat.
 
-<br><br><br><br>
+======
 
 
 ## Logotype Color
