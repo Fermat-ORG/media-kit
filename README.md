@@ -82,7 +82,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 ======
 <br><br>
 
-#### Fermat Euro Front side
+#### Fermat Pound Front side
 ======
 
 ![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/e4700cbc908a3e64512cfa014411dfb29cae6662/Coins/Pound_Fermat.jpg "Pound FRONT SIDE")
