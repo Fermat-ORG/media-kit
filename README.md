@@ -74,6 +74,14 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 ======
 <br><br>
 
+#### Fermat Dollar Back side
+======
+
+![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/d1bdb1cdf45e4983f0cab5a79c99f4711e54790f/Coins/Dollar_Fermat_back.jpg "Dollar BACK SIDE")
+
+======
+<br><br>
+
 #### Fermat Euro Front side
 ======
 
@@ -82,10 +90,42 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 ======
 <br><br>
 
+#### Fermat Euro Germany Back side
+======
+
+![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/d1bdb1cdf45e4983f0cab5a79c99f4711e54790f/Coins/Euro_Fermat_back_Germany.jpg "Euro Germany BACK SIDE")
+
+======
+<br><br>
+
+#### Fermat Euro France Back side
+======
+
+![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/d1bdb1cdf45e4983f0cab5a79c99f4711e54790f/Coins/Euro_Fermat_back_France.jpg "Euro France BACK SIDE")
+
+======
+<br><br>
+
+#### Fermat Euro Hungary Back side
+======
+
+![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/d1bdb1cdf45e4983f0cab5a79c99f4711e54790f/Coins/Euro_Fermat_back_Hungary.jpg "Euro Hungary BACK SIDE")
+
+======
+<br><br>
+
 #### Fermat Pound Front side
 ======
 
 ![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/e4700cbc908a3e64512cfa014411dfb29cae6662/Coins/Pound_Fermat.jpg "Pound FRONT SIDE")
+
+======
+<br><br>
+
+#### Fermat Pound Back side
+======
+
+![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/d1bdb1cdf45e4983f0cab5a79c99f4711e54790f/Coins/Pound_Fermat_back.jpg "Pound BACK SIDE")
 
 ======
 <br><br>
@@ -277,6 +317,13 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Coins) to 
 ======
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fiat_pound_scn_1_low.jpg "FIAT SCENE 4")
+
+
+#### P2P art Scene
+======
+
+![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/d1bdb1cdf45e4983f0cab5a79c99f4711e54790f/Backgrounds/Fermat%20P2P/Fermat_P2P_art_scene_3.png "P2P ART SCENE")
+
 
 Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Backgrounds) to get all backgrounds files.
 
