@@ -66,6 +66,30 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 ======
 <br><br>
 
+#### Fermat Dollar Front side
+======
+
+![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/e4700cbc908a3e64512cfa014411dfb29cae6662/Coins/Dollar_Fermat.jpg "Dollar FRONT SIDE")
+
+======
+<br><br>
+
+#### Fermat Euro Front side
+======
+
+![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/e4700cbc908a3e64512cfa014411dfb29cae6662/Coins/Euro_Fermat.jpg "Euro FRONT SIDE")
+
+======
+<br><br>
+
+#### Fermat Euro Front side
+======
+
+![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/e4700cbc908a3e64512cfa014411dfb29cae6662/Coins/Pound_Fermat.jpg "Pound FRONT SIDE")
+
+======
+<br><br>
+
 #### Blockchain Coin
 ======
 
