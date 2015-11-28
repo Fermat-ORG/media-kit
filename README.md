@@ -50,18 +50,34 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 ## Coins 
 <br><br>
 
-#### Fermat Bitcoins Front side
+#### Fermat Bitcoins model 1 Front side
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Front_Bitcoin_scn_low.jpg "BITCOIN FRONT SIDE")
+![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/0bcdaaf7f3e357f8d03dd9a2a4333b10ad9fc1b9/Coins/Fermat%20Bitcoin/Bitcoin_1_front_side_HD.jpg "BITCOIN MODEL 1 FRONT SIDE")
 
 ======
 <br><br>
 
-#### Fermat Bitcoins Back side
+#### Fermat Bitcoins model 1 Back side
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Back_Bitcoin_scn_low.jpg "BITCOIN BACK SIDE")
+![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/0bcdaaf7f3e357f8d03dd9a2a4333b10ad9fc1b9/Coins/Fermat%20Bitcoin/Bitcoin_1_back_side_HD.jpg "BITCOIN MODEL 1 BACK SIDE")
+
+======
+<br><br>
+
+#### Fermat Bitcoins model 2 Front side
+======
+
+![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/0bcdaaf7f3e357f8d03dd9a2a4333b10ad9fc1b9/Coins/Fermat%20Bitcoin/Bitcoin_2_front_side_HD.jpg "BITCOIN MODEL 2 FRONT SIDE")
+
+======
+<br><br>
+
+#### Fermat Bitcoins model 2 Back side
+======
+
+![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/0bcdaaf7f3e357f8d03dd9a2a4333b10ad9fc1b9/Coins/Fermat%20Bitcoin/Bitcoin_2_back_side_HD.jpg "BITCOIN MODEL 2 BACK SIDE")
 
 ======
 <br><br>
