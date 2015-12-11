@@ -276,6 +276,11 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Coins) to get all Coin Images.
 
 
+#### Fermat Application Token
+
+![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/master/Coins/Fermat%20App%20Token/Fermat_App_Token.jpg "Fermat Application Token")
+
+
 <br><br>
 
 ### Background
@@ -333,6 +338,11 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Coins) to 
 ======
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fiat_pound_scn_1_low.jpg "FIAT SCENE 4")
+
+
+##### Scene 5
+
+![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/05aa4fc11e7a523ecf21d6d2b1fc631a73412798/Coins/Fiat_art_3_wb.jpg "FIAT SCENE 5")
 
 
 #### P2P art Scene
