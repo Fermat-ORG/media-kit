@@ -340,9 +340,14 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Coins) to 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fiat_pound_scn_1_low.jpg "FIAT SCENE 4")
 
 
-##### Scene 5
+#### Scene 5
 
 ![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/05aa4fc11e7a523ecf21d6d2b1fc631a73412798/Coins/Fiat_art_3_wb.jpg "FIAT SCENE 5")
+
+
+#### Scene 6
+
+![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/c47c9093dc95255cdbaafc5f3d61fb2659cd1905/Backgrounds/Fiat%20Coins/Fiat_euro_art_3_wb.jpg "FIAT SCENE 6")
 
 
 #### P2P art Scene
