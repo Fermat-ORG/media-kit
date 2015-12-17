@@ -350,6 +350,11 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Coins) to 
 ![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/c47c9093dc95255cdbaafc5f3d61fb2659cd1905/Backgrounds/Fiat%20Coins/Fiat_euro_art_3_wb.jpg "FIAT SCENE 6")
 
 
+#### Scene 7
+
+![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/5f48edd90d13bd2bf0544208247df7b7653c7b77/Backgrounds/Fiat%20Coins/Fiat_dollar_art_scn_2_wb.jpg "FIAT SCENE 7")
+
+
 #### P2P art Scene
 ======
 
