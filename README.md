@@ -11,29 +11,29 @@
 
 <br><br>
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
 
-Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%203D) to get all logo files.
+Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/Logotype) to get all logo files.
 
 <br><br>
 
-## Codes Color
+## Color Codes
 
 
 ### Hexadecimal Color
 ======
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Code%20Colors/code_color_logo-01.jpg "COLOR CODE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Color%20Codes/colorcode_logo_web.jpg "COLOR CODE")
 
 
 ### CMYK Color
 ======
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Code%20Colors/code_color_logo-02.jpg "COLOR CODE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Color%20Codes/colorcode_logo_cmyk.jpg "COLOR CODE")
 
 
 ### RGB Color
 ======
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Code%20Colors/code_color_logo-03.jpg "COLOR CODE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Color%20Codes/colorcode_logo_rgb.jpg "COLOR CODE")
 
 <br><br>
 
@@ -41,7 +41,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 ## Typography 
 
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Typography/module-typography2.png "TYPOGRAPHY")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Typography/module-typography2.png "TYPOGRAPHY")
 
 
 <br><br>
@@ -53,7 +53,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 #### Fermat Bitcoins model 1 Front side
 ======
 
-![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/0bcdaaf7f3e357f8d03dd9a2a4333b10ad9fc1b9/Coins/Fermat%20Bitcoin/Bitcoin_1_front_side_HD.jpg "BITCOIN MODEL 1 FRONT SIDE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Fermat%20Bitcoin/PerspView/1/Front_HQ_1920x1080.jpg "BITCOIN MODEL 1 FRONT SIDE")
 
 ======
 <br><br>
@@ -61,7 +61,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 #### Fermat Bitcoins model 1 Back side
 ======
 
-![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/0bcdaaf7f3e357f8d03dd9a2a4333b10ad9fc1b9/Coins/Fermat%20Bitcoin/Bitcoin_1_back_side_HD.jpg "BITCOIN MODEL 1 BACK SIDE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Fermat%20Bitcoin/PerspView/1/Back_HQ_1920x1080.jpg "BITCOIN MODEL 1 BACK SIDE")
 
 ======
 <br><br>
@@ -69,7 +69,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 #### Fermat Bitcoins model 2 Front side
 ======
 
-![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/0bcdaaf7f3e357f8d03dd9a2a4333b10ad9fc1b9/Coins/Fermat%20Bitcoin/Bitcoin_2_front_side_HD.jpg "BITCOIN MODEL 2 FRONT SIDE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Fermat%20Bitcoin/PerspView/2/Front_HQ_1920x1080.jpg "BITCOIN MODEL 2 FRONT SIDE")
 
 ======
 <br><br>
@@ -77,7 +77,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 #### Fermat Bitcoins model 2 Back side
 ======
 
-![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/0bcdaaf7f3e357f8d03dd9a2a4333b10ad9fc1b9/Coins/Fermat%20Bitcoin/Bitcoin_2_back_side_HD.jpg "BITCOIN MODEL 2 BACK SIDE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Fermat%20Bitcoin/PerspView/2/Back_HQ_1920x1080.jpg "BITCOIN MODEL 2 BACK SIDE")
 
 ======
 <br><br>
@@ -85,7 +85,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 #### Fermat Dollar Front side
 ======
 
-![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/e4700cbc908a3e64512cfa014411dfb29cae6662/Coins/Dollar_Fermat.jpg "Dollar FRONT SIDE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Fiat%20Coins/Dollar%20Fermat/Front/Front_HQ_1920x1080.jpg "Dollar FRONT SIDE")
 
 ======
 <br><br>
@@ -93,7 +93,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 #### Fermat Dollar Back side
 ======
 
-![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/d1bdb1cdf45e4983f0cab5a79c99f4711e54790f/Coins/Dollar_Fermat_back.jpg "Dollar BACK SIDE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Fiat%20Coins/Dollar%20Fermat/Back/Back_HQ_1920x1080.jpg "Dollar BACK SIDE")
 
 ======
 <br><br>
@@ -101,7 +101,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 #### Fermat Euro Front side
 ======
 
-![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/e4700cbc908a3e64512cfa014411dfb29cae6662/Coins/Euro_Fermat.jpg "Euro FRONT SIDE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Fiat%20Coins/Euro%20Fermat/Front/Front_HQ_1920x1080.jpg "Euro FRONT SIDE")
 
 ======
 <br><br>
@@ -109,7 +109,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 #### Fermat Euro Germany Back side
 ======
 
-![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/d1bdb1cdf45e4983f0cab5a79c99f4711e54790f/Coins/Euro_Fermat_back_Germany.jpg "Euro Germany BACK SIDE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Fiat%20Coins/Euro%20Fermat/Back/Germany/Back_Germany_HQ_1920x1080.jpg "Euro Germany BACK SIDE")
 
 ======
 <br><br>
@@ -117,7 +117,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 #### Fermat Euro France Back side
 ======
 
-![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/d1bdb1cdf45e4983f0cab5a79c99f4711e54790f/Coins/Euro_Fermat_back_France.jpg "Euro France BACK SIDE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Fiat%20Coins/Euro%20Fermat/Back/France/Back_France_HQ_1920x1080.jpg "Euro France BACK SIDE")
 
 ======
 <br><br>
@@ -125,7 +125,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 #### Fermat Euro Hungary Back side
 ======
 
-![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/d1bdb1cdf45e4983f0cab5a79c99f4711e54790f/Coins/Euro_Fermat_back_Hungary.jpg "Euro Hungary BACK SIDE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Fiat%20Coins/Euro%20Fermat/Back/Hungary/Back_Hungary_HQ_1920x1080.jpg "Euro Hungary BACK SIDE")
 
 ======
 <br><br>
@@ -133,7 +133,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 #### Fermat Pound Front side
 ======
 
-![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/e4700cbc908a3e64512cfa014411dfb29cae6662/Coins/Pound_Fermat.jpg "Pound FRONT SIDE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Fiat%20Coins/Pound%20Fermat/Front/Front_HQ_1920x1080.jpg "Pound FRONT SIDE")
 
 ======
 <br><br>
@@ -141,7 +141,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 #### Fermat Pound Back side
 ======
 
-![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/d1bdb1cdf45e4983f0cab5a79c99f4711e54790f/Coins/Pound_Fermat_back.jpg "Pound BACK SIDE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Fiat%20Coins/Pound%20Fermat/Back/Back_HQ_1920x1080.jpg "Pound BACK SIDE")
 
 ======
 <br><br>
@@ -149,119 +149,119 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 #### Blockchain Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/BCH.jpg "Blockchain")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Platform%20Coins/BCH/BCH.jpg "Blockchain")
 
 ======
 
 #### Banking Platform Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/BNK.jpg "Banking Platform")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Platform%20Coins/BNK/BNK.jpg "Banking Platform")
 
 ======
 
 #### Bank Notes Platform Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/BNP.jpg "Bank Notes Platform")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Platform%20Coins/BNP/BNP.jpg "Bank Notes Platform")
 
 ======
 
 #### Crypto Broker Platform Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/CBP.jpg "Crypto Broker Platform")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Platform%20Coins/CBP/CBP.jpg "Crypto Broker Platform")
 
 ======
 
 #### Crypto Commodity Money Platform Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/CCM.jpg "Crypto Commodity Money Platform")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Platform%20Coins/CCM/CCM.jpg "Crypto Commodity Money Platform")
 
 ======
 
 #### Crypto Currency Platform Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/CCP.jpg "Crypto Currency Platform")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Platform%20Coins/CCP/CCP.jpg "Crypto Currency Platform")
 
 ======
 
 #### Crypto Distribution Network Platform Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/CDN.jpg "Crypto Distribution Network Platform")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Platform%20Coins/CDN/CDN.jpg "Crypto Distribution Network Platform")
 
 ======
 
 #### Core And Api Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/COR.jpg "Core And Api")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Platform%20Coins/COR/COR.jpg "Core And Api")
 
 ======
 
 #### Cash Platform Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/CSH.jpg "Cash Platform")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Platform%20Coins/CSH/CSH.jpg "Cash Platform")
 
 ======
 
 #### Digital Asset Platform Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/DAP.jpg "Digital Asset Platform")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Platform%20Coins/DAP/DAP.jpg "Digital Asset Platform")
 
 ======
 
 #### Digital Money Platform Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/DMP.jpg "Digital Money Platform")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Platform%20Coins/DMP/DMP.jpg "Digital Money Platform")
 
 ======
 
 #### Device Private Platform Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/DPN.jpg "Device Private Platform")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Platform%20Coins/DPN/DPN.jpg "Device Private Platform")
 
 ======
 
 #### Marketing Platform Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/MKT.jpg "Marketing Platform")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Platform%20Coins/MKT/MKT.jpg "Marketing Platform")
 
 ======
 
 #### Operating System Api Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/OSA.jpg "Operating System Api")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Platform%20Coins/OSA/OSA.jpg "Operating System Api")
 
 ======
 
 #### Peer to Peer Network Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/P2P.jpg "Peer to Peer Network")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Platform%20Coins/P2P/P2P.jpg "Peer to Peer Network")
 
 ======
 
 #### Plugins Platform Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/PIP.jpg "Plugins Platform")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Platform%20Coins/PIP/PIP.jpg "Plugins Platform")
 
 ======
 
 #### Shopping Platform Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/SHP.jpg "Shopping Platform")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Platform%20Coins/SHP/SHP.jpg "Shopping Platform")
 
 ======
 
@@ -269,16 +269,16 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Logotype%2
 #### Wallet Production and Distribution Coin
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Coins/WPD.jpg "Shopping Platform")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Platform%20Coins/WPD/WPD.jpg "Shopping Platform")
 
 ======
 
-Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Coins) to get all Coin Images.
+Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/Coins) to get all Coin Images.
 
 
 #### Fermat Application Token
 
-![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/master/Coins/Fermat%20App%20Token/Fermat_App_Token.jpg "Fermat Application Token")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Tokens/Fermat%20App%20Token/PerspView/HQ_1920x1080.jpg "Fermat Application Token")
 
 
 <br><br>
@@ -290,22 +290,22 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Coins) to 
 #### Scene 1
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fermat_BTC_scn_1_low.jpg "SCENE 1")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fermat%20Bitcoin%20Scene/Scene1/MedQ_1600x900.jpg "SCENE 1")
 
 #### Scene 2
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fermat_BTC_scn__2_low.jpg "SCENE 2")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fermat%20Bitcoin%20Scene/Scene2/MedQ_1600x900.jpg "SCENE 2")
 
 #### Scene 3
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fermat_BTC_scn__3_low.jpg "SCENE 3")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fermat%20Bitcoin%20Scene/Scene3/MedQ_1600x900.jpg "SCENE 3")
 
 #### Scene 4
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fermat_BTC_scn_4_low.jpg "SCENE 4")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fermat%20Bitcoin%20Scene/Scene4/MedQ_1600x900.jpg "SCENE 4")
 
 
 <br><br>
@@ -314,54 +314,54 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Coins) to 
 #### Fiat Currencies
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fiat_scn_1_low.jpg "FIAT SCENE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fiat%20Coins/Fiat%20Art/Scene1/HQ_1920x1080.jpg "FIAT SCENE")
 
 
 #### Scene 1
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fiat_dollar_scn_1_low.jpg "FIAT SCENE 1")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fiat%20Coins/Fiat%20Dollar/Scene1/HQ_1920x1080.jpg "FIAT SCENE 1")
 
 #### Scene 2
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fiat_dollar_scn_2_low.jpg "FIAT SCENE 2")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fiat%20Coins/Fiat%20Dollar/Scene2/HQ_1920x1080.jpg "FIAT SCENE 2")
 
 
 #### Scene 3
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fiat_euro_scn_1_low.jpg "FIAT SCENE 3")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fiat%20Coins/Fiat%20Euro/Scene1/HQ_1920x1080.jpg "FIAT SCENE 3")
 
 
 #### Scene 4
 ======
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Background/Fiat_pound_scn_1_low.jpg "FIAT SCENE 4")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fiat%20Coins/Fiat%20Pound/Scene1/HQ_1920x1080.jpg "FIAT SCENE 4")
 
 
 #### Scene 5
 
-![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/05aa4fc11e7a523ecf21d6d2b1fc631a73412798/Coins/Fiat_art_3_wb.jpg "FIAT SCENE 5")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Coins/Fiat%20Coins/Fiat%20Art/Scene1/HQ_1920x1080.jpg "FIAT SCENE 5")
 
 
 #### Scene 6
 
-![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/c47c9093dc95255cdbaafc5f3d61fb2659cd1905/Backgrounds/Fiat%20Coins/Fiat_euro_art_3_wb.jpg "FIAT SCENE 6")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fiat%20Coins/Fiat%20Euro/Scene2/HQ_1920x1080.jpg "FIAT SCENE 6")
 
 
 #### Scene 7
 
-![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/5f48edd90d13bd2bf0544208247df7b7653c7b77/Backgrounds/Fiat%20Coins/Fiat_dollar_art_scn_2_wb.jpg "FIAT SCENE 7")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fiat%20Coins/Fiat%20Dollar/Scene3/HQ_1920x1080.jpg "FIAT SCENE 7")
 
 
 #### P2P art Scene
 ======
 
-![alt text](https://raw.githubusercontent.com/bitDubai/media-kit/d1bdb1cdf45e4983f0cab5a79c99f4711e54790f/Backgrounds/Fermat%20P2P/Fermat_P2P_art_scene_3.png "P2P ART SCENE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fermat%20P2P/Scene1/HQ_1920x1080.png "P2P ART SCENE")
 
 
-Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/Backgrounds) to get all backgrounds files.
+Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/Backgrounds) to get all backgrounds files.
 
 <br><br><br><br><br><br><br><br>
 
