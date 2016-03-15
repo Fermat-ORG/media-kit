@@ -354,6 +354,22 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/C
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fiat%20Coins/Fiat%20Dollar/Scene3/HQ_1920x1080.jpg "FIAT SCENE 7")
 
+#### Scene 8
+
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/4cc7e66c53efad075b0bc5496a5cc17f7bd8d929/MediaKit/Backgrounds/Fiat%20Coins/Fiat%20Dollar/Scene4/HQ_1920x1080.jpg "FIAT SCENE 8")
+
+#### Scene 9
+
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/4cc7e66c53efad075b0bc5496a5cc17f7bd8d929/MediaKit/Backgrounds/Fiat%20Coins/Fiat%20Dollar/Scene5/HQ_1920x1080.jpg "FIAT SCENE 9")
+
+#### Scene 10
+
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/4cc7e66c53efad075b0bc5496a5cc17f7bd8d929/MediaKit/Backgrounds/Fiat%20Coins/Fiat%20Pound/Scene2/HQ_1920x1080.jpg "FIAT SCENE 10")
+
+#### Scene 11
+
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/4cc7e66c53efad075b0bc5496a5cc17f7bd8d929/MediaKit/Backgrounds/Fiat%20Coins/Fiat%20Pound/Scene3/HQ_1920x1080.jpg "FIAT SCENE 11")
+
 
 #### P2P art Scene
 ======
