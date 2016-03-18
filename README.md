@@ -401,7 +401,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphic_4_Fermat_Platform/DIAGRAMA%20FERMAT%20PLATFORM-01.png "GRAPHIC 4")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphic_4_Fermat_Platform/DIAGRAMA-FERMAT-PLATFORM-01.png "GRAPHIC 4")
 
 -----
 
@@ -413,4 +413,4 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/streamofmicropayments/Stream%20of%20Micro%20Payments.png "GRAPHIC 7")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/streamofmicropayments/Stream-of-Micro-Payments.png "GRAPHIC 7")
