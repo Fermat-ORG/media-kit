@@ -398,3 +398,11 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 -----
 
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_3/Graphics_3.png "GRAPHIC 3")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_Fermat%20_User_Interface/Fermat_User_Interface.png "GRAPHIC 4")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_Architecture/Graphic_N5_propuesta1-02.png "GRAPHIC 5")
