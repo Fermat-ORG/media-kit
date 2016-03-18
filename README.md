@@ -382,5 +382,19 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 <br><br><br><br><br><br><br><br>
 
 
+#### Fermat Network
+======
 
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_economy_network/Graphics_economy_network_all.png "NETWORK SCENE")
 
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_1/Graphics_1.png "GRAPHIC 1")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_2/Graphics_2.png "GRAPHIC 2")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_3/Graphics_3.png "GRAPHIC 3")
