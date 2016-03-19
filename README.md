@@ -413,4 +413,8 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/streamofmicropayments/Stream-of-Micro-Payments.png "GRAPHIC 7")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Splitting%20Information%20and%20Value/Grafico-Splitting-Information-and-Value.png "GRAPHIC 7")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/streamofmicropayments/Stream-of-Micro-Payments.png "GRAPHIC 8")
