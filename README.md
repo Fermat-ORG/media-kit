@@ -381,20 +381,47 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 
 <br><br><br><br><br><br><br><br>
 
-
 #### Fermat Network
 ======
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_economy_network/Graphics_economy_network_all.png "NETWORK SCENE")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_economy_network/Graphics_economy_network-_1.png "GRAPHIC NETWORK 1.1")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_economy_network/Graphics_economy_network_2.png "GRAPHIC NETWORK 1.2")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_economy_network/Graphics_economy_network_3.png "GRAPHIC NETWORK 1.3")
 
 -----
 
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_1/Graphics_1.png "GRAPHIC 1")
 
------
+----- 
 
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_2/Graphics_2.png "GRAPHIC 2")
 
 -----
 
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_3/Graphics_3.png "GRAPHIC 3")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphic_4_Fermat_Platforms/DIAGRAMA%20FERMAT%20PLATFORM-01.png "GRAPHIC 4")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_Fermat%20_User_Interface/Fermat_User_Interface.png "GRAPHIC 5")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_Architecture/Graphic_N5_propuesta1-02.png "GRAPHIC 6")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Splitting%20Information%20and%20Value/Grafico-Splitting-Information-and-Value.png "GRAPHIC 7")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/streamofmicropayments/Stream-of-Micro-Payments.png "GRAPHIC 8")
