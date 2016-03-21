@@ -408,7 +408,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphic_4_Fermat_Platform/DIAGRAMA-FERMAT-PLATFORM-01.png "GRAPHIC 4")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphic_4_Fermat_Platforms/DIAGRAMA%20FERMAT%20PLATFORM-01.png "GRAPHIC 4")
 
 -----
 
