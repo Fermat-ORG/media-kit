@@ -381,25 +381,24 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 
 <br><br><br><br><br><br><br><br>
 
-
 #### Fermat Network
 ======
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_economy_network/Graphics_economy_network_all.png "NETWORK SCENE")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_economy_network/Graphics_economy_network-_1.png "GRAPHIC NETWORK 1.1")
 
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_economy_network/Graphics_economy_network-_1.png "GRAPHIC 1.1")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_economy_network/Graphics_economy_network_2.png "GRAPHIC NETWORK 1.2")
 
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_economy_network/Graphics_economy_network_2.png "GRAPHIC 1.2")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_economy_network/Graphics_economy_network_3.png "GRAPHIC NETWORK 1.3")
 
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_economy_network/Graphics_economy_network_3.png "GRAPHIC 1.3")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_1/Graphics_1.png "GRAPHIC 1")
 
------
+----- 
 
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_2/Graphics_2.png "GRAPHIC 2")
 
