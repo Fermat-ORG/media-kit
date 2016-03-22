@@ -386,11 +386,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_economy_network/Graphics_economy_network-_1.png "GRAPHIC NETWORK 1.1")
 
------
-
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_economy_network/Graphics_economy_network_2.png "GRAPHIC NETWORK 1.2")
-
------
 
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_economy_network/Graphics_economy_network_3.png "GRAPHIC NETWORK 1.3")
 
