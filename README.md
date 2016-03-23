@@ -419,6 +419,11 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 -----
 
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/streamofmicropayments/Stream-of-Micro-Payments.png "GRAPHIC 8")
+
 -----
 
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphic_internet_of_people/Graphics_Internet-of-people.png "GRAPHIC 9")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Fermat%20Workflow/Fermat-Workflow.png "GRAPHIC 10")
