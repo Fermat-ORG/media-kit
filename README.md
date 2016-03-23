@@ -426,4 +426,11 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Fermat%20Workflow/Fermat-Workflow.png "GRAPHIC 10")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/component_types/Component_types-01.png "GRAPHIC 10")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/component_encapsulation/Component_encapsulation-01.png "GRAPHIC 11")
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Fermat%20Workflow/Fermat-Workflow.png "GRAPHIC 12")
