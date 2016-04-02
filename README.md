@@ -431,6 +431,15 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 -----
 
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/component_encapsulation/Component_encapsulation-01.png "GRAPHIC 11")
+
 -----
 
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Fermat%20Workflow/Fermat-Workflow.png "GRAPHIC 12")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Multi-Sign%20and%20Petty%20Cash%20Vault/Multi-Sign-and-Petty-Cash-Vault.png "GRAPHIC 13")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Stream-of-Micro-Payments/Stream-of-Micro-Payments.png "GRAPHIC 14")
