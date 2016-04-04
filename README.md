@@ -442,4 +442,4 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Stream-of-Micro-Payments/Stream-of-Micro-Payments.png "GRAPHIC 14")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Device-Private-Network/Device-Private-Network.png "GRAPHIC 14")
