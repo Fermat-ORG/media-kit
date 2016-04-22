@@ -11,15 +11,9 @@
 
 <br><br>
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
-
 ### Fermat Logo 3D
 ------
 ![Fermat_logo_v2_1920X1920](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Logotype/fermat_logo_3D/Fermat_logo_v2_1920X1920.jpg)
-
-![Fermat_logo_v2_1280x1280](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/fermat_logo_3D/Fermat_logo_v2_1280x1280.png)
-
-![Fermat_logo_v2_1024x1024](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Logotype/fermat_logo_3D/Fermat_logo_v2_1024x1024.png)
 
 ![Fermat_logo_v2_515x512](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Logotype/fermat_logo_3D/Fermat_logo_v2_512x512.png)
 
