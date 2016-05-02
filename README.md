@@ -13,7 +13,7 @@
 
 ### Fermat Logo 
 ------
-![Fermat_logo_v2_1920X1920](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Logotype/fermat_logo_3D/Fermat_logo_v2_1920X1920.jpg)
+![Fermat_logo_v2_1920X1920](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Logotype/fermat_logo_3D/Fermat_logo_v2_1920X1920.png)
 
 ![Fermat_logo_v2_515x512](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Logotype/fermat_logo_3D/Fermat_logo_v2_512x512.png)
 
