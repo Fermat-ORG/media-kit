@@ -30,17 +30,17 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/L
 
 ### Hexadecimal Color
 ======
-![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Color%20Codes/colorcode_logo_web.jpg "COLOR CODE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Color%20Codes/colorcode_logo_web.png "COLOR CODE")
 
 
 ### CMYK Color
 ======
-![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Color%20Codes/colorcode_logo_cmyk.jpg "COLOR CODE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Color%20Codes/colorcode_logo_cmyk.png "COLOR CODE")
 
 
 ### RGB Color
 ======
-![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Color%20Codes/colorcode_logo_rgb.jpg "COLOR CODE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Color%20Codes/colorcode_logo_rgb.png "COLOR CODE")
 
 <br><br>
 
