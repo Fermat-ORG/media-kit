@@ -458,3 +458,6 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 -----
 
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Global_Cyberspaces/Global_Cyberspaces.png "GRAPHIC 16")
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphic%20Blockchain/blockchain.png "GRAPHIC 17")
