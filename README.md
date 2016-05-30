@@ -450,3 +450,11 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 -----
 
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphics_Device-Private-Network/Device-Private-Network.png "GRAPHIC 14")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Android-Apps-Fermat-Apps/graphic-infographies_Android-Apps-Fermat-Apps.png "GRAPHIC 15")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Global_Cyberspaces/Global_Cyberspaces.png "GRAPHIC 16")
