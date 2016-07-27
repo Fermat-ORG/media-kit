@@ -287,6 +287,13 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/C
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Tokens/Fermat%20App%20Token/PerspView/HQ_1920x1080.jpg "Fermat Application Token")
 
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Coins/Fermat%20Token/One_fermat_token_front_1920x1080.jpg "One Fermat Coin Front Side")
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Coins/Fermat%20Token/One_fermat_token_back_1920x1080.jpg "One Fermat Coin Back Side")
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Coins/Fermat%20Token/One_fermat_token_art_01.jpg "One Fermat Art Scene 1")
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/27ad9b7589b9e01cd3c9d8bd2aa29ff969ea3456/MediaKit/Coins/Fermat%20Token/One_fermat_token_art_02.jpg "One Fermat Art Scene 2")
 
 <br><br>
 
