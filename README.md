@@ -25,6 +25,18 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/L
 
 <br><br>
 
+### Fermat Internet of people Logo 
+------
+![Fermat_logo_v2_1280X1280](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/fermat_logo_internet_of_people/fermat_internet_of_people_logo_1280x1280.png)
+
+![Fermat_logo_v2_515x512](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/fermat_logo_internet_of_people/fermat_internet_of_people_logo_512x512.png)
+
+![Fermat_logo_v2_256x256](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/fermat_logo_internet_of_people/fermat_internet_of_people_logo_256x256.png)
+
+![Fermat_logo_v2_128x128](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/fermat_logo_internet_of_people/fermat_internet_of_people_logo_128x128.png)
+
+<br><br>
+
 ## Color Codes
 
 
