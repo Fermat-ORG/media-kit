@@ -37,20 +37,6 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/L
 
 <br><br>
 
-### Fermat Tech Logo 
-------
-![Fermat_logo_tech_1280X552](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/Logo_fermat_tech/fermat_tech_1280x552.png)
-
-![Fermat_logo_tech_1024x441](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/Logo_fermat_tech/fermat_tech_1024x441.png)
-
-![Fermat_logo_tech_512x221](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/Logo_fermat_tech/fermat_tech_512x221.png)
-
-![Fermat_logo_tech_256x110](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/Logo_fermat_tech/fermat_tech_256x110.png)
-
-![Fermat_logo_tech_128x55](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/Logo_fermat_tech/fermat_tech_128x55.png)
-
-
-<br><br>
 
 ## Color Codes
 
@@ -71,6 +57,20 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/L
 
 <br><br>
 
+### Fermat Tech Logo 
+------
+![Fermat_logo_tech_1280X552](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/Logo_fermat_tech/fermat_tech_1280x552.png)
+
+![Fermat_logo_tech_1024x441](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/Logo_fermat_tech/fermat_tech_1024x441.png)
+
+![Fermat_logo_tech_512x221](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/Logo_fermat_tech/fermat_tech_512x221.png)
+
+![Fermat_logo_tech_256x110](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/Logo_fermat_tech/fermat_tech_256x110.png)
+
+![Fermat_logo_tech_128x55](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/Logo_fermat_tech/fermat_tech_128x55.png)
+
+
+<br><br>
 
 ## Typography 
 
