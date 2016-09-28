@@ -495,3 +495,16 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 -----
 
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphic%20Blockchain/blockchain.png "GRAPHIC 17")
+
+### IOP Images
+======
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/interoperativity.jpg "Image 1")
+
+-----
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/proximity_1.jpg "Image 2")
+
+-----
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/proximity_2.png "Image 3")
+
+-----
