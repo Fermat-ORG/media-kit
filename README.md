@@ -499,7 +499,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 ### IOP Images
 ======
 
-#### Home Node
+#### Conection Nodes
 ======
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/conection_nodes.jpg "Image 1")
 
