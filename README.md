@@ -499,11 +499,16 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 ### IOP Images
 ======
 
+#### Home Node
+======
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/conection_nodes.jpg "Image 1")
+
+
 #### Interoperatibility
 ======
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/interoperativity.jpg "Image 1")
 
-#### Proximity Node
+#### Nearby Node
 ======
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/proximity_1.jpg "Image 2")
 
@@ -511,3 +516,9 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/proximity_2.png "Image 3")
 
 -----
+
+#### Home Node
+======
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/Home_node.jpg "Image 1")
+
+
