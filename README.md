@@ -499,9 +499,12 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 ### IOP Images
 ======
 
+#### Interoperatibility
+======
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/interoperativity.jpg "Image 1")
 
------
+#### Proximity Node
+======
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/proximity_1.jpg "Image 2")
 
 -----
