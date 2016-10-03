@@ -11,32 +11,66 @@
 
 <br><br>
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
+### Fermat Logo 
+------
+![Fermat_logo_v2_1920X1920](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Logotype/fermat_logo_3D/Fermat_logo_v2_1920X1920.png)
 
+![Fermat_logo_v2_515x512](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Logotype/fermat_logo_3D/Fermat_logo_v2_512x512.png)
+
+![Fermat_logo_v2_256x256](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Logotype/fermat_logo_3D/Fermat_logo_v2_256x256.png)
+
+![Fermat_logo_v2_128x128](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Logotype/fermat_logo_3D/Fermat_logo_v2_128x128.png)
 
 Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/Logotype) to get all logo files.
 
 <br><br>
+
+### Fermat Internet of people Logo 
+------
+![Fermat_logo_v2_1280X1280](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/fermat_logo_internet_of_people/fermat_internet_of_people_logo_1280x1280.png)
+
+![Fermat_logo_v2_515x512](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/fermat_logo_internet_of_people/fermat_internet_of_people_logo_512x512.png)
+
+![Fermat_logo_v2_256x256](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/fermat_logo_internet_of_people/fermat_internet_of_people_logo_256x256.png)
+
+![Fermat_logo_v2_128x128](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/fermat_logo_internet_of_people/fermat_internet_of_people_logo_128x128.png)
+
+<br><br>
+
 
 ## Color Codes
 
 
 ### Hexadecimal Color
 ======
-![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Color%20Codes/colorcode_logo_web.jpg "COLOR CODE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Color%20Codes/colorcode_logo_web.png "COLOR CODE")
 
 
 ### CMYK Color
 ======
-![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Color%20Codes/colorcode_logo_cmyk.jpg "COLOR CODE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Color%20Codes/colorcode_logo_cmyk.png "COLOR CODE")
 
 
 ### RGB Color
 ======
-![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Color%20Codes/colorcode_logo_rgb.jpg "COLOR CODE")
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Fermat%20Branding/Color%20Codes/colorcode_logo_rgb.png "COLOR CODE")
 
 <br><br>
 
+### Fermat Tech Logo 
+------
+![Fermat_logo_tech_1280X552](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/Logo_fermat_tech/fermat_tech_1280x552.png)
+
+![Fermat_logo_tech_1024x441](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/Logo_fermat_tech/fermat_tech_1024x441.png)
+
+![Fermat_logo_tech_512x221](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/Logo_fermat_tech/fermat_tech_512x221.png)
+
+![Fermat_logo_tech_256x110](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/Logo_fermat_tech/fermat_tech_256x110.png)
+
+![Fermat_logo_tech_128x55](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/Logo_fermat_tech/fermat_tech_128x55.png)
+
+
+<br><br>
 
 ## Typography 
 
@@ -280,6 +314,13 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/C
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Tokens/Fermat%20App%20Token/PerspView/HQ_1920x1080.jpg "Fermat Application Token")
 
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Coins/Fermat%20Token/One_fermat_token_front_1920x1080.jpg "One Fermat Coin Front Side")
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Coins/Fermat%20Token/One_fermat_token_back_1920x1080.jpg "One Fermat Coin Back Side")
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Coins/Fermat%20Token/One_fermat_token_art_01.jpg "One Fermat Art Scene 1")
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/27ad9b7589b9e01cd3c9d8bd2aa29ff969ea3456/MediaKit/Coins/Fermat%20Token/One_fermat_token_art_02.jpg "One Fermat Art Scene 2")
 
 <br><br>
 
@@ -384,47 +425,94 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 #### Fermat Network
 ======
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_economy_network/Graphics_economy_network-_1.png "GRAPHIC NETWORK 1.1")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphics_economy_network/Graphics_economy_network-_1.png "GRAPHIC NETWORK 1.1")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphics_economy_network/Graphics_economy_network_2.png "GRAPHIC NETWORK 1.2")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphics_economy_network/Graphics_economy_network_3.png "GRAPHIC NETWORK 1.3")
 
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_economy_network/Graphics_economy_network_2.png "GRAPHIC NETWORK 1.2")
-
------
-
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_economy_network/Graphics_economy_network_3.png "GRAPHIC NETWORK 1.3")
-
------
-
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_1/Graphics_1.png "GRAPHIC 1")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphics_fermat_network/Graphics_1.png "GRAPHIC 1")
 
 ----- 
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_2/Graphics_2.png "GRAPHIC 2")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphics_fermat_framwork/Graphics_2.png "GRAPHIC 2")
 
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_3/Graphics_3.png "GRAPHIC 3")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphics_Super_layer/Graphics_3.png "GRAPHIC 3")
 
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphic_4_Fermat_Platforms/DIAGRAMA%20FERMAT%20PLATFORM-01.png "GRAPHIC 4")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphic_Fermat_Platforms/DIAGRAMA%20FERMAT%20PLATFORM-01.png "GRAPHIC 4")
 
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_Fermat%20_User_Interface/Fermat_User_Interface.png "GRAPHIC 5")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphics_Fermat%20_User_Interface/Fermat_User_Interface.png "GRAPHIC 5")
 
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphics_Architecture/Graphic_N5_propuesta1-02.png "GRAPHIC 6")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphics_Architecture/Graphic_N5_propuesta1-02.png "GRAPHIC 6")
 
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Splitting%20Information%20and%20Value/Grafico-Splitting-Information-and-Value.png "GRAPHIC 7")
+![alt text](https://github.com/Fermat-ORG/media-kit/tree/master/MediaKit/Infographies/Graphics_Splitting%20Information%20and%20Value "GRAPHIC 7")
 
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/streamofmicropayments/Stream-of-Micro-Payments.png "GRAPHIC 8")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphics_streamofmicropayments/Stream-of-Micro-Payments.png "GRAPHIC 8")
+
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/Infographies/Graphic_internet_of_people/Graphics_Internet-of-people.png "GRAPHIC 9")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphic_internet_of_people/Graphics_Internet-of-people.png "GRAPHIC 9")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphics_component_types/Component_types-01.png "GRAPHIC 10")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphics_component_encapsulation/Component_encapsulation-01.png "GRAPHIC 11")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphics_Fermat_workflow/Fermat-Workflow.png "GRAPHIC 12")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphics_Multi-Sign%20and%20Petty%20Cash%20Vault/Multi-Sign-and-Petty-Cash-Vault.png "GRAPHIC 13")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphics_Device-Private-Network/Device-Private-Network.png "GRAPHIC 14")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Android-Apps-Fermat-Apps/graphic-infographies_Android-Apps-Fermat-Apps.png "GRAPHIC 15")
+
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Global_Cyberspaces/Global_Cyberspaces.png "GRAPHIC 16")
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Infographies/Graphic%20Blockchain/blockchain.png "GRAPHIC 17")
+
+### IOP Images
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/conection_nodes.jpg "Image 1")
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/interoperativity.jpg "Image 1")
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/proximity_1.jpg "Image 2")
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/proximity_2.png "Image 3")
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/Proximity_3.jpg "Image 4")
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/Home_node.jpg "Image 5")
+
+
