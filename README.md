@@ -516,4 +516,4 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/Home_node.jpg "Image 5")
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/5dcb50a36d7f5ae0353e0f4b457554101afcf3b2/MediaKit/IOP_Image/imagen%20data%20users.jpg "Image 6")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/iop_chat_user.jpg "Image 6")
