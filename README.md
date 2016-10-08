@@ -532,3 +532,6 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 -----
 
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/IoP-reputacion.jpg "Image 11")
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/IOP-example-5.jpg "Image 12")
