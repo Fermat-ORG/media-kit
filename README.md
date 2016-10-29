@@ -507,7 +507,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/proximity_1.jpg "Image 2")
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/IOP%20example%202.jpg "Image 3")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/proximity_2.jpg "Image 3")
 -----
 
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/Proximity_3.jpg "Image 4")
