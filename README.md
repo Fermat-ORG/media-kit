@@ -551,11 +551,11 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 -----
 
 #### Germany
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/Fermat_org_Alemania_2500-1.png "Germany")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/fermat_org_germany_2500x2500.png "Germany")
 -----
 
 #### Hungary
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/Fermat_Hungary-02.png "Hungary")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/fermat_hungary_2500x2500.png "Hungary")
 -----
 
 #### Mexico
@@ -563,15 +563,15 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 -----
 
 #### Morocco
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/Fermat_org_Morocco_2500-1.png "Morocco")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/fermat_org_morocco_2500x2500.png "Morocco")
 -----
 
 #### Netherlands
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/Fermat_org_Holanda_2500_2.png "Netherlands")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/fermat_holanda_2500x2500.png "Netherlands")
 -----
 
 #### Spain
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/Fermat_org_spain_2500-2-02.png "Spain")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/fermat_org_spain_2500x2500.png "Spain")
 -----
 
 #### Southafrica
@@ -579,7 +579,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 -----
 
 #### Switzerland
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/Fermat_org_Switzerland_2500-1.png "Switzerland")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/fermat_org_switzerland_2500x2500.png "Switzerland")
 -----
 
 #### USA
