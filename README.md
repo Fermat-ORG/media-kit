@@ -84,6 +84,26 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/L
 ## Coins 
 <br><br>
 
+### IOP Coin
+
+#### IOP Coin Front side
+======
+
+![alt text](
+https://github.com/Fermat-ORG/media-kit/raw/master/MediaKit/Coins/IoP%20%20Token/IoP_token_front_1920x1080.jpg "IoP Coin Front side")
+
+======
+<br><br>
+
+#### IOP Coin Back side
+======
+
+![alt text](
+https://github.com/Fermat-ORG/media-kit/raw/master/MediaKit/Coins/IoP%20%20Token/IoP_token_back_1920x1080.jpg "IoP Coin Back ide")
+
+======
+<br><br>
+
 #### Fermat Bitcoins model 1 Front side
 ======
 
@@ -324,9 +344,29 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/C
 
 <br><br>
 
-### Background
+## Backgrounds
 ------
 
+### IoP Coin Background
+======
+
+#### Scene 1
+======
+
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Coins/IoP%20%20Token/IoP_token_art_01.jpg "SCENE 1")
+
+#### Scene 2
+======
+
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Coins/IoP%20%20Token/IoP_token_art_02.jpg "SCENE 2")
+
+#### Scene 3
+======
+
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Coins/IoP%2520%2520Token/IoP_token_art_03.jpg "SCENE 3")
+
+### Fermat Bitcoin Background
+======
 
 #### Scene 1
 ======
@@ -349,10 +389,12 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/C
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fermat%20Bitcoin%20Scene/Scene4/MedQ_1600x900.jpg "SCENE 4")
 
 
+
+
 <br><br>
 
 
-#### Fiat Currencies
+### Fiat Currencies
 ======
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fiat%20Coins/Fiat%20Art/Scene1/HQ_1920x1080.jpg "FIAT SCENE")
@@ -412,7 +454,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/C
 ![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/4cc7e66c53efad075b0bc5496a5cc17f7bd8d929/MediaKit/Backgrounds/Fiat%20Coins/Fiat%20Pound/Scene3/HQ_1920x1080.jpg "FIAT SCENE 11")
 
 
-#### P2P art Scene
+### P2P art Scene
 ======
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fermat%20P2P/Scene1/HQ_1920x1080.png "P2P ART SCENE")
