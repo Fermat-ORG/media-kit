@@ -363,19 +363,19 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/C
 #### Scene 3
 ======
 
-![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Coins/IoP%2520%2520Token/IoP_token_art_03.jpg "SCENE 3")
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Coins/IoP_Token/IoP_token_art_03.jpg "SCENE 3")
 
 #### Scene 4
 =====
-![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Coins/IoP%2520%2520Token/IoP_token_art_04.jpg "SCENE 4")
+![alt text](https://github.com/Fermat-ORG/media-kit/raw/master/MediaKit/Coins/IoP%20%20Token/IoP_token_art_04.jpg "SCENE 4")
 
 #### Scene 5
 =====
-![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Coins/IoP%2520%2520Token/IoP_token_art_05.jpg "SCENE 5")
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Coins/IoP%20%20Token/IoP_token_art_05.jpg "SCENE 5")
 
 #### Scene 6
 =====
-![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Coins/IoP%2520%2520Token/IoP_token_art_06.jpg "SCENE 6")
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Coins/IoP%20%20Token/IoP_token_art_06.jpg "SCENE 6")
 
 ### Fermat Bitcoin Background
 ======
