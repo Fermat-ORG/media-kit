@@ -84,6 +84,26 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/L
 ## Coins 
 <br><br>
 
+### IOP Coin
+
+#### IOP Coin Front side
+======
+
+![alt text](
+https://github.com/Fermat-ORG/media-kit/raw/master/MediaKit/Coins/IoP%20%20Token/IoP_token_front_1920x1080.jpg "IoP Coin Front side")
+
+======
+<br><br>
+
+#### IOP Coin Back side
+======
+
+![alt text](
+https://github.com/Fermat-ORG/media-kit/raw/master/MediaKit/Coins/IoP%20%20Token/IoP_token_back_1920x1080.jpg "IoP Coin Back ide")
+
+======
+<br><br>
+
 #### Fermat Bitcoins model 1 Front side
 ======
 
@@ -324,9 +344,41 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/C
 
 <br><br>
 
-### Background
+## Backgrounds
 ------
 
+### IoP Coin Background
+======
+
+#### Scene 1
+======
+
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Coins/IoP%20%20Token/IoP_token_art_01.jpg "SCENE 1")
+
+#### Scene 2
+======
+
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Coins/IoP%20%20Token/IoP_token_art_02.jpg "SCENE 2")
+
+#### Scene 3
+======
+
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Coins/IoP_Token/IoP_token_art_03.jpg "SCENE 3")
+
+#### Scene 4
+=====
+![alt text](https://github.com/Fermat-ORG/media-kit/raw/master/MediaKit/Coins/IoP%20%20Token/IoP_token_art_04.jpg "SCENE 4")
+
+#### Scene 5
+=====
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Coins/IoP%20%20Token/IoP_token_art_05.jpg "SCENE 5")
+
+#### Scene 6
+=====
+![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Coins/IoP%20%20Token/IoP_token_art_06.jpg "SCENE 6")
+
+### Fermat Bitcoin Background
+======
 
 #### Scene 1
 ======
@@ -349,10 +401,12 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/C
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fermat%20Bitcoin%20Scene/Scene4/MedQ_1600x900.jpg "SCENE 4")
 
 
+
+
 <br><br>
 
 
-#### Fiat Currencies
+### Fiat Currencies
 ======
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fiat%20Coins/Fiat%20Art/Scene1/HQ_1920x1080.jpg "FIAT SCENE")
@@ -412,7 +466,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/C
 ![alt text](https://raw.githubusercontent.com/Fermat-ORG/media-kit/4cc7e66c53efad075b0bc5496a5cc17f7bd8d929/MediaKit/Backgrounds/Fiat%20Coins/Fiat%20Pound/Scene3/HQ_1920x1080.jpg "FIAT SCENE 11")
 
 
-#### P2P art Scene
+### P2P art Scene
 ======
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Backgrounds/Fermat%20P2P/Scene1/HQ_1920x1080.png "P2P ART SCENE")
@@ -507,12 +561,85 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/B
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/proximity_1.jpg "Image 2")
 -----
 
-![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/proximity_2.png "Image 3")
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/proximity_2.jpg "Image 3")
 -----
 
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/Proximity_3.jpg "Image 4")
 -----
 
 ![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/Home_node.jpg "Image 5")
+-----
 
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/iop_chat_user.jpg "Image 6")
+-----
 
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/IOP%20example%201.jpg "Image 7")
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/IOP%20example%202.jpg "Image 8")
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/IOP%20example%203.jpg "Image 9")
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/IOP-example-4.jpg "Image 10")
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/IoP-reputacion.jpg "Image 11")
+-----
+
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IOP_Image/IOP-example-5.jpg "Image 12")
+
+### Logos Fermat Countries
+
+#### Argentina
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/fermat_org_argentina_2500x2500.png "Argentina")
+-----
+
+#### Australia
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/fermat_org_australia_2500x2500.png "Australia")
+-----
+
+#### Croatia
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/fermat_org_croatia_2500x2500.png "Croatia")
+-----
+
+#### Germany
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/fermat_org_germany_2500x2500.png "Germany")
+-----
+
+#### Hungary
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/fermat_hungary_2500x2500.png "Hungary")
+-----
+
+#### Mexico
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/fermat_org_mexico_2500x2500.png "Mexico")
+-----
+
+#### Morocco
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/fermat_org_morocco_2500x2500.png "Morocco")
+-----
+
+#### Netherlands
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/fermat_holanda_2500x2500.png "Netherlands")
+-----
+
+#### Spain
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/fermat_org_spain_2500x2500.png "Spain")
+-----
+
+#### Southafrica
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/fermat_org_southafrica_2500x2500.png "Southafrica")
+-----
+
+#### Switzerland
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/fermat_org_switzerland_2500x2500.png "Switzerland")
+-----
+
+#### USA
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/fermat_org_eeuu_2500x2500.png "USA")
+-----
+
+#### Venezuela
+![alt text](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat_org_countries/Fermat_org_Venezuela_2500x2500.png "Venezuela")
+-----
