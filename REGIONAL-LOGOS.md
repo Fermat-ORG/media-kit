@@ -190,6 +190,13 @@
 ![laos-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/laos_name_logo.png)
 =====
 
+# Latvia
+
+![latvia-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/latvia_logo.png)
+---
+![latvia-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/latvia_name_logo.png)
+=====
+
 # Lebanon
 
 ![lebanon-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/lebanon_logo.png)
