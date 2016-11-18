@@ -1,7 +1,7 @@
-#### Countries
+Countries
 <br><br>
 
-##### Botswana
+## Botswana
 
 ![botswana-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/botswana_logo.png)
 ---
