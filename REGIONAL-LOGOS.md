@@ -1,35 +1,35 @@
-Countries
+# Countries
 <br><br>
 
-## Botswana
+# Botswana
 
 ![botswana-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/botswana_logo.png)
 ---
 ![botswana-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/botswana_name_logo.png)
 =====
 
-##### Brazil
+# Brazil
 
 ![brazil-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/brazil_logo.png)
 ---
 ![brazil-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/brazil_name_logo.png)
 =====
 
-##### Cape-Verde
+# Cape-Verde
 
 ![cape-verde-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cape-verde_logo.png)
 ---
 ![cape-verde-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cape-verde_name_logo.png)
 =====
 
-##### Libya
+# Libya
 
 ![libya-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/libya_logo.png)
 ---
 ![libya-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/libya_name_logo.png)
 =====
 
-##### Mauritania
+# Mauritania
 
 ![mauritania-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mauritania_logo.png)
 ---
@@ -43,14 +43,14 @@ Countries
 ![mauritius-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mauritius_name_logo.png)
 =====
 
-## Netherlands
+# Netherlands
 
 ![netherlands-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/netherlands_logo.png)
 ---
 ![netherlands-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/netherlands_name_logo.png)
 =====
 
-### United-States
+# United-States
 
 ![united-states-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united-states_logo.png)
 ---
