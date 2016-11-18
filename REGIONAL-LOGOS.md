@@ -36,9 +36,24 @@
 ![mauritania-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mauritania_name_logo.png)
 =====
 
-##### Mauritius
+# Mauritius
 
 ![mauritius-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mauritius_logo.png)
 ---
 ![mauritius-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mauritius_name_logo.png)
 =====
+
+## Netherlands
+
+![netherlands-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/netherlands_logo.png)
+---
+![netherlands-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/netherlands_name_logo.png)
+=====
+
+### United-States
+
+![united-states-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united-states_logo.png)
+---
+![united-states-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united-states_name_logo.png)
+=====
+
