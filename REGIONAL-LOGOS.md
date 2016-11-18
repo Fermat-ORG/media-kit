@@ -8,6 +8,27 @@
 ![bangladesh-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bangladesh_name_logo.png)
 =====
 
+# Barbados
+
+![barbados-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/barbados_logos.png)
+---
+![barbados-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/barbados_name_logos.png)
+=====
+
+# Belize
+
+![belize-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/belize_logo.png)
+---
+![belize-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/belize_name_logo.png)
+=====
+
+# Benin
+
+![benin-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/benin_logo.png)
+---
+![benin-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/benin_name_logo.png)
+=====
+
 # Botswana
 
 ![botswana-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/botswana_logo.png)
@@ -148,11 +169,39 @@
 ![kiribati-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kiribati_name_logo.png)
 =====
 
+# Kuwait
+
+![kuwait-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kuwait_logo.png)
+---
+![kuwait-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kuwait_name_logo.png)
+=====
+
 # Kyrgyzstan
 
 ![kyrgyzstan-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kyrgyzstan_logo.png)
 ---
 ![kyrgyzstan-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kyrgyzstan_name_logo.png)
+=====
+
+# Laos
+
+![laos-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/laos_logo.png)
+---
+![laos-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/laos_name_logo.png)
+=====
+
+# Lebanon
+
+![lebanon-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/lebanon_logo.png)
+---
+![lebanon-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/lebanon_name_logo.png)
+=====
+
+# Lesotho
+
+![lesotho-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/lesotho_logo.png)
+---
+![lesotho-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/lesotho_name_logo.png)
 =====
 
 # Libya
@@ -209,6 +258,27 @@
 ![poland-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/poland_logo.png)
 ---
 ![poland-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/poland_name_logo.png)
+=====
+
+# Portugal
+
+![portugal-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/portugal_logo.png)
+---
+![portugal-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/portugal_name_logo.png)
+=====
+
+# Puerto Rico
+
+![puerto-rico-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/puerto_rico_logo.png)
+---
+![puerto-rico-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/puerto_rico_name_logo.png)
+=====
+
+# Spain
+
+![spain-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/spain_logo.png)
+---
+![spain-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/spain_name_logo.png)
 =====
 
 # United-States
