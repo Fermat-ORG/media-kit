@@ -37,6 +37,19 @@
 
 ![united-states-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united-states_name_logo.png)
 
+# United Kingdom
+
+![united-kingdom-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united_kingdom_logo.png)
+
+![united-kingdom-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united_kingdom_name_logo.png)
+
+# Venezuela
+
+![venezuela-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/venezuela_logo.png)
+
+![venezuela-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/venezuela_name_logo.png)
+
+
 
 
 
