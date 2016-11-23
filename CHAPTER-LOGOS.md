@@ -102,15 +102,47 @@
 
 ![greece-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/greece_logo.png)
 
+![greece-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/greece_name_logo.png)
+
 ======
 ### Greenland
 
 ![greenland-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/greenland_logo.png)
 
+![greenland-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/greenland_name_logo.png)
+
 ======
 ### Guadeloupe
 
 ![guadeloupe-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guadeloupe_logo.png)
+
+======
+### Guam
+
+![guam-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guam_logo.png)
+
+![guam-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guam_name_logo.png)
+
+======
+### Guatemala
+
+![guatemala-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guatemala_logo.png)
+
+![guatemala-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guatemala_name_logo.png)
+
+======
+### Guersney
+
+![guersney-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guersney_logo.png)
+
+![guersney-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guersney_name_logo.png)
+
+======
+### Guinea
+
+![guinea-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guinea_logo.png)
+
+![guinea-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guinea_name_logo.png)
 
 ======
 ### Kazakhstan
