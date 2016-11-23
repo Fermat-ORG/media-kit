@@ -55,6 +55,11 @@
 ![guadeloupe-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guadeloupe_logo.png)
 
 ======
+### Kazakhstan
+
+![kazakhstan-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kazakhstan_logo.png)
+
+======
 ### United States
 
 ![united-states-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united-states_logo.png)
