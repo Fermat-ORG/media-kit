@@ -7,13 +7,13 @@
 
 ![albania-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/albania_logo.png)
 
------------------------
+----
 
 # Algeria
 
 ![algeria-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/algeria_logo.png)
 
-===
+
 
 # Andorra
 
