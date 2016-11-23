@@ -3,9 +3,20 @@
 # Countries
 <br><br>
 
-# Botswana
+# Albania
 
-![botswana-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/botswana_logo.png)
+![albania-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/albania_logo.png)
 ---
-![botswana-name-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/botswana_name_logo.png)
+![albania-name-logo]()
+
+---
+
+# Algeria
+
+![algeria-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/albania_logo.png)
+---
+![albania-name-logo]()
+
+
+
 
