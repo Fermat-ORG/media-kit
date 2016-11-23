@@ -31,6 +31,22 @@
 
 ![germany-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bosnia-and-herzegovina_logo.png)
 
+# Gibraltar
+
+![gibraltar-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/gibraltar_logo.png)
+
+# Greece
+
+![greece-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/greece_logo.png)
+
+# Greenland
+
+![greenland-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/greenland_logo.png)
+
+# Guadeloupe
+
+![guadeloupe-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guadeloupe_logo.png)
+
 # United States
 
 ![united-states-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united-states_logo.png)
