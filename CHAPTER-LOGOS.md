@@ -1,81 +1,80 @@
-###REGIONAL LOGOS
+#REGIONAL LOGOS
 
 ## Countries
 <br><br>
 
-# Albania
+### Albania
 
 ![albania-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/albania_logo.png)
 
 ======
-# Algeria
+### Algeria
 
 ![algeria-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/algeria_logo.png)
 
 ======
-# Andorra
+### Andorra
 
 ![andorra-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/andorra_logo.png)
 
 ======
-# Bosnia
+### Bosnia
 
 ![bosnia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bosnia-and-herzegovina_logo.png)
 
 ======
-# Croatia
+### Croatia
 
 ![croatia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/croatia_logo.png)
 
 ![croatia-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/croatia_name_logo.png)
 
 ======
-# Germany
+### Germany
 
 ![germany-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bosnia-and-herzegovina_logo.png)
 
 ======
-# Gibraltar
+### Gibraltar
 
 ![gibraltar-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/gibraltar_logo.png)
 
 ======
-# Greece
+### Greece
 
 ![greece-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/greece_logo.png)
 
 ======
-# Greenland
+### Greenland
 
 ![greenland-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/greenland_logo.png)
 
 ======
-# Guadeloupe
+### Guadeloupe
 
 ![guadeloupe-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guadeloupe_logo.png)
 
 ======
-# United States
+### United States
 
 ![united-states-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united-states_logo.png)
 
 ![united-states-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united-states_name_logo.png)
 
 ======
-# United Kingdom
+### United Kingdom
 
 ![united-kingdom-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united_kingdom_logo.png)
 
 ![united-kingdom-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united_kingdom_name_logo.png)
 
 ======
-# Venezuela
+### Venezuela
 
 ![venezuela-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/venezuela_logo.png)
 
 ![venezuela-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/venezuela_name_logo.png)
 
-*****
 
 
 
