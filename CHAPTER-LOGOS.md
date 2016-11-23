@@ -7,7 +7,7 @@
 
 ![albania-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/albania_logo.png)
 
-----------------
+<br><br>
 
 # Algeria
 
