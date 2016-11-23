@@ -32,7 +32,7 @@
 ======
 ### Germany
 
-![germany-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bosnia-and-herzegovina_logo.png)
+![germany-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/germany_logo.png)
 
 ======
 ### Gibraltar
@@ -58,6 +58,27 @@
 ### Kazakhstan
 
 ![kazakhstan-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kazakhstan_logo.png)
+
+======
+### Kiribati
+
+![kiribati-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kiribati_logo.png)
+
+======
+### Kuwait
+
+![kuwait-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kuwait_logo.png)
+
+======
+### Kyrgyzstan
+
+![kyrgyzstan-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kyrgyzstan_logo.png)
+
+======
+### Pakistan
+
+![pakistann-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/pakistan_logo.png)
+
 
 ======
 ### United States
