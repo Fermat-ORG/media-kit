@@ -72,9 +72,25 @@
 ![croatia-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/croatia_name_logo.png)
 
 ======
+### Czech Republic
+
+![czech-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/czech_republic_logo.png)
+
+![czech-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/czech_republic_name_logo.png)
+
+======
+### French Guiana
+
+![french-guiana] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/french_guiana_logo.png)
+
+![french-guiana-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/french_guiana_name_logo.png)
+
+======
 ### Germany
 
 ![germany-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/germany_logo.png)
+
+![germany-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/germany_name_logo.png)
 
 ======
 ### Gibraltar
