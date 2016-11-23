@@ -46,11 +46,6 @@
 ![belarus-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/belarus_name_logo.png)
 
 ======
-### Bosnia
-
-![bosnia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bosnia-and-herzegovina_logo.png)
-
-======
 ### burkina
 
 ![burkina-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/burkina_faso_logo.png)
