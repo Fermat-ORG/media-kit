@@ -5,17 +5,19 @@
 
 # Albania
 
-![albania-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/albania_logo.png)
----
-![albania-name-logo]()
+(https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/albania_logo.png)
 
 ---
 
 # Algeria
 
-![algeria-logo](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/albania_logo.png)
+(https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/algeria_logo.png)
+
 ---
-![albania-name-logo]()
+
+# Andorra
+
+(https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/andorra_logo.png)
 
 
 
