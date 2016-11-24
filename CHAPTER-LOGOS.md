@@ -173,6 +173,8 @@
 
 ![pakistann-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/pakistan_logo.png)
 
+![pakistann-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/pakistan_name_logo.png)
+
 
 ======
 ### Poland
