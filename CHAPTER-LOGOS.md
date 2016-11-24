@@ -159,6 +159,20 @@
 ![guinea-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guinea_name_logo.png)
 
 ======
+### Hungary
+
+![hungary-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/hungary_logo.png)
+
+![hungary-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/hungary_name_logo.png)
+
+======
+### Indonesia
+
+![indonesia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/indonesia_logo.png)
+
+![indonesia-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/indonesia_name_logo.png)
+
+======
 ### Japan
 
 ![japan-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/japan_logo.png)
@@ -215,6 +229,13 @@
 ![poland-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/poland_logo.png)
 
 ![poland-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/poland_name_logo.png)
+
+======
+### Russia
+
+![russia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/russia_logo.png)
+
+![russia-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/russia_name_logo.png)
 
 ======
 ### United States
