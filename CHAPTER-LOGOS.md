@@ -1,5 +1,4 @@
 #REGIONAL LOGOS
-
 ## Countries
 <br><br>
 
@@ -58,6 +57,13 @@
 ![burundi-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/burundi_logo.png)
 
 ![burundi-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/burundi_name_logo.png)
+
+======
+### China
+
+![china-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/china_logo.png)
+
+![china-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/china_name_logo.png)
 
 ======
 ### Croatia
@@ -140,6 +146,13 @@
 ![guinea-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guinea_name_logo.png)
 
 ======
+### Japan
+
+![japan-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/japan_logo.png)
+
+![japan-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/japan_name_logo.png)
+
+======
 ### Kazakhstan
 
 ![kazakhstan-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kazakhstan_logo.png)
@@ -190,9 +203,18 @@
 
 ![united-states-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united-states_name_logo.png)
 
-####ESTATES
-####New York
+#### ESTATES
+#### California
+![california-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/california_US_logo.png)
 
+![california-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/california_US_name_logo.png)
+
+#### Indiana
+![indiana-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/indiana_us_logo.png)
+
+![indiana-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/indiana_us_name_logo.png)
+
+#### New York
 ![newyork-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/newyork_logo.png)
 
 ![newyork-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/newyork_name_logo_2500.png)
