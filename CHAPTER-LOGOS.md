@@ -204,9 +204,9 @@
 ======
 ### Netherlands
 
-![Netherlands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/netherlands_name_logo.png)
+![Netherlands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/netherlands_logo.png)
 
-![Netherlands-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/netherlands_logo.png)
+![Netherlands-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/netherlands_name_logo.png)
 
 ======
 ### Netherlands Antilles
