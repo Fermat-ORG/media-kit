@@ -159,6 +159,15 @@
 
 ![kyrgyzstan-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kyrgyzstan_logo.png)
 
+![kyrgyzstan-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kyrgyzstan_name_logo.png)
+
+======
+### Netherlands
+
+![Netherlands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/Netherlands_Antilles_logo.png)
+
+![Netherlands-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/Netherlands_Antilles_name_logo.png)
+
 ======
 ### Pakistan
 
