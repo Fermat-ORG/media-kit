@@ -224,7 +224,7 @@
 #### New York
 ![newyork-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/newyork_logo.png)
 
-![newyork-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/newyork_name_logo_2500.png)
+![newyork-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/newyork_name_logo.png)
 
 ======
 ### United Kingdom
