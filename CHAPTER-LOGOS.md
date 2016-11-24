@@ -16,6 +16,8 @@
 
 ![andorra-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/andorra_logo.png)
 
+![andorra-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/andorra_name_logo.png)
+
 ======
 ### Angola
 
