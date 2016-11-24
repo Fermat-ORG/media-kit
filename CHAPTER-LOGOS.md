@@ -238,11 +238,18 @@
 ![russia-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/russia_name_logo.png)
 
 ======
+### South Africa
+
+![south-africa-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/south-africa_logo.png)
+
+![south-africa-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/russia_name_logo.png)
+
+======
 ### United States
 
 ![united-states-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united-states_logo.png)
 
-![united-states-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united-states_name_logo.png)
+![united-states-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/south-africa_name_logo.png)
 
 #### ESTATES
 #### California
