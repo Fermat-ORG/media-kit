@@ -75,8 +75,6 @@
 ======
 ### Czech Republic
 
-![czech-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/czech_republic_logo.png)
-
 ![czech-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/czech_republic_name_logo.png)
 
 ======
