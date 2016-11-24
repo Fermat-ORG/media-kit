@@ -31,6 +31,21 @@
 ![antarctica-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/antarctica_name_logo.png)
 
 ======
+### Argentina
+
+![argentina-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/argentina_logo.png)
+
+![argentina-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/argentina_name_logo.png)
+
+======
+### Austria
+
+![austria-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/austria_logo.png)
+
+![austria-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/austria_name_logo.png)
+
+
+======
 ### Bangladesh
 
 ![bangladesh-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bangladesh_logo.png)
