@@ -46,14 +46,14 @@
 ![belarus-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/belarus_name_logo.png)
 
 ======
-### burkina
+### Burkina
 
 ![burkina-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/burkina_faso_logo.png)
 
 ![burkina-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/burkina_faso_name_logo.png)
 
 ======
-### burundi
+### Burundi
 
 ![burundi-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/burundi_logo.png)
 
@@ -166,11 +166,25 @@
 
 
 ======
+### Poland
+
+![poland-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/poland_logo.png)
+
+![poland-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/poland_name_logo.png)
+
+======
 ### United States
 
 ![united-states-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united-states_logo.png)
 
 ![united-states-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united-states_name_logo.png)
+
+####ESTATES
+####New York
+
+![newyork-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/newyork_logo.png)
+
+![newyork-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/newyork_name_logo_2500.png)
 
 ======
 ### United Kingdom
