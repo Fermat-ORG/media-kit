@@ -204,6 +204,13 @@
 ![kyrgyzstan-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kyrgyzstan_name_logo.png)
 
 ======
+### Morocco
+
+![morocco-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/morocco_logo.png)
+
+![morocco-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/morocco_name_logo.png)
+
+======
 ### Netherlands
 
 ![Netherlands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/netherlands_logo.png)
@@ -224,13 +231,19 @@
 
 ![pakistann-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/pakistan_name_logo.png)
 
-
 ======
 ### Poland
 
 ![poland-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/poland_logo.png)
 
 ![poland-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/poland_name_logo.png)
+
+======
+### Romania
+
+![romania-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/romania_logo.png)
+
+![romania-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/romania_name_logo.png)
 
 ======
 ### Russia
@@ -245,6 +258,20 @@
 ![south-africa-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/south-africa_logo.png)
 
 ![south-africa-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/russia_name_logo.png)
+
+======
+### Switzerland
+
+![switzerland-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/switzerland_logo.png)
+
+![switzerland-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/switzerland_name_logo.png)
+
+======
+### Turkey
+
+![turkey-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/turkey_logo.png)
+
+![turkey-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/turkey_name_logo.png)
 
 ======
 ### United States
