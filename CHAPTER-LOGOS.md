@@ -225,6 +225,41 @@
 ![denmark-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/denmark_name_logo.png)
 
 ======
+### Djibouti
+
+![djibouti-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/djibouti_logo.png)
+
+![djibouti-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/djibouti_name_logo.png)
+
+======
+### East Timor
+
+![east-timor-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/east-timor_logo.png)
+
+![east-timor-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/east-timor_name_logo.png)
+
+======
+### Egypt
+
+![egypt-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/egypt_logo.png)
+
+![egypt-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/egypt_name_logo.png)
+
+======
+### El Salvador
+
+![el-salvador-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/el-salvador_logo.png)
+
+![el-salvador-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/el-salvador_name_logo.png)
+
+======
+### Dominica
+
+![dominica-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/dominica_logo.png)
+
+![dominica-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/dominica_name_logo.png)
+
+======
 ### French Guiana
 
 ![french-guiana] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/french_guiana_logo.png)
@@ -307,6 +342,20 @@
 ![indonesia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/indonesia_logo.png)
 
 ![indonesia-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/indonesia_name_logo.png)
+
+======
+### Iraq
+
+![iraq-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/iraq_logo.png)
+
+![iraq-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/iraq_name_logo.png)
+
+======
+### Ivory
+
+![iraq-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/ivory-coast_logo.png)
+
+![iraq-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/ivory-coast_name_logo.png)
 
 ======
 ### Japan
