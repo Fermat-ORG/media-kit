@@ -264,7 +264,7 @@
 
 ![south-africa-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/south-africa_logo.png)
 
-![south-africa-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/russia_name_logo.png)
+![south-africa-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/south-africa_name_logo.png)
 
 ======
 ### Switzerland
