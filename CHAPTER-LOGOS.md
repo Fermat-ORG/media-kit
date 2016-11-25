@@ -204,6 +204,8 @@
 
 ![kazakhstan-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kazakhstan_logo.png)
 
+![kazakhstan-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kazakhstan_name_logo.png)
+
 ======
 ### Kiribati
 
@@ -216,7 +218,7 @@
 
 ![kuwait-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kuwait_logo.png)
 
-![kuwait-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kuwait_logo.png)
+![kuwait-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kuwait_name_logo.png)
 
 ======
 ### Kyrgyzstan
