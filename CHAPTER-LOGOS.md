@@ -89,7 +89,7 @@
 
 ![benin-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/benin_logo.png)
 
-![benin-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/benin_logo.png)
+![benin-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/benin_name_logo.png)
 
 ======
 ### Burkina
