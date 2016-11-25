@@ -6,10 +6,14 @@
 
 ![albania-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/albania_logo.png)
 
+![albania-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/albania_name_logo.png)
+
 ======
 ### Algeria
 
 ![algeria-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/algeria_logo.png)
+
+![algeria-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/algeria_name_logo.png)
 
 ======
 ### Andorra
@@ -123,6 +127,8 @@
 
 ![gibraltar-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/gibraltar_logo.png)
 
+![gibraltar-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/gibraltar_name_logo.png)
+
 ======
 ### Greece
 
@@ -141,6 +147,8 @@
 ### Guadeloupe
 
 ![guadeloupe-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guadeloupe_logo.png)
+
+![guadeloupe-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guadeloupe_name_logo.png)
 
 ======
 ### Guam
@@ -201,8 +209,12 @@
 
 ![kiribati-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kiribati_logo.png)
 
+![kiribati-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kiribati_name_logo.png)
+
 ======
 ### Kuwait
+
+![kuwait-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kuwait_logo.png)
 
 ![kuwait-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kuwait_logo.png)
 
