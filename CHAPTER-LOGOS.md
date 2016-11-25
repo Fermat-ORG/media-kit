@@ -120,6 +120,13 @@
 ![bostwana-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/bostwana_name_logo.png)
 
 ======
+### Bulgaria
+
+![bulgaria-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/bulgaria_logo.png)
+
+![bulgaria-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/bulgaria_name_logo.png)
+
+======
 ### Burkina
 
 ![burkina-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/burkina_faso_logo.png)
@@ -146,6 +153,20 @@
 ![colombia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/colombia_logo.png)
 
 ![colombia-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/colombia_name_logo.png)
+
+======
+### Comoros
+
+![comoros-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/comoros_logo.png)
+
+![comoros-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/comoros_name_logo.png)
+
+======
+### Costa Rica
+
+![costa-rica-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/costa-rica_logo.png)
+
+![costa-rica-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/costa-rica_name_logo.png)
 
 ======
 ### Croatia
