@@ -92,6 +92,34 @@
 ![benin-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/benin_name_logo.png)
 
 ======
+### Bhutan
+
+![bhutan-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/bhutan_logo.png)
+
+![bhutan-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/bhutan_name_logo.png)
+
+======
+### Bolivia
+
+![bolivia-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/bolivia_logo-01.png)
+
+![bolivia-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/bolivia_name_logo.png)
+
+======
+### Bosnia and Herzegovina
+
+![bosnia-h-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/bosnia-and-herzegovina_logo.png)
+
+![bosnia-h-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/bosnia-and-herzegovina_name_logo.png)
+
+======
+### Bostwana
+
+![bostwana-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/bostwana_logo.png)
+
+![bostwana-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/bostwana_name_logo.png)
+
+======
 ### Burkina
 
 ![burkina-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/burkina_faso_logo.png)
