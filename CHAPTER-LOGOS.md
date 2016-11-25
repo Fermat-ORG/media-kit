@@ -256,11 +256,39 @@
 ![pakistann-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/pakistan_name_logo.png)
 
 ======
+### Panama
+
+![panama-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/panama_logo.png)
+
+![panama-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/panama_name_logo.png)
+
+======
+### Paraguay
+
+![paraguay-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/paraguay_logo.png)
+
+![paraguay-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/paraguay_name_logo.png)
+
+======
+### Peru
+
+![peru-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/peru_logo.png)
+
+![peru-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/peru_name_logo.png)
+
+======
 ### Poland
 
 ![poland-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/poland_logo.png)
 
 ![poland-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/poland_name_logo.png)
+
+======
+### Portugal
+
+![portugal-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/portugal_logo.png)
+
+![portugal-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/portugal_name_logo.png)
 
 ======
 ### Romania
