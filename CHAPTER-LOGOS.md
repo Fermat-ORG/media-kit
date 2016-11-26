@@ -134,6 +134,13 @@
 ![bostwana-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/bostwana_name_logo.png)
 
 ======
+### Brazil
+
+![brazil-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/brazil_logo.png)
+
+![brazil-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/brazil_name_logo.png)
+
+======
 ### Brunei
 
 ![brunei-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/brunei_logo.png)
@@ -167,6 +174,13 @@
 ![cental_african_republic-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/cental_african_republic_logo.png)
 
 ![cental_african_republic-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/cental_african_republic_name_logo.png)
+
+======
+### Chile
+
+![chile-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/chile_logo.png)
+
+![chile-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/chile_name_logo.png)
 
 ======
 ### China
@@ -239,6 +253,13 @@
 ![east-timor-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/east-timor_name_logo.png)
 
 ======
+### Ecuador
+
+![ecuador-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/ecuador_logo.png)
+
+![ecuador-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/ecuador_name_logo.png)
+
+======
 ### Egypt
 
 ![egypt-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/egypt_logo.png)
@@ -251,6 +272,34 @@
 ![el-salvador-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/el-salvador_logo.png)
 
 ![el-salvador-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/el-salvador_name_logo.png)
+
+======
+### Estonia
+
+![estonia-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/estonia_logo.png)
+
+![estonia-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/estonia_name_logo.png)
+
+======
+### Ethiopia
+
+![ethiopia-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/ethiopia_logo.png)
+
+![ethiopia-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/ethiopia_name_logo.png)
+
+======
+### Fiji
+
+![fiji-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/fiji_logo.png)
+
+![fiji-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/fiji_name_logo.png)
+
+======
+### Finland
+
+![finland-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/finland_logo.png)
+
+![finland-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/finland_name_logo.png)
 
 ======
 ### Dominica
@@ -351,7 +400,21 @@
 ![iraq-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/iraq_name_logo.png)
 
 ======
-### Ivory
+### Ireland
+
+![ireland-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/ireland_logo.png)
+
+![ireland-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/ireland_name_logo.png)
+
+======
+### Italy
+
+![italy-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/italy_logo.png)
+
+![italy-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/italy_name_logo.png)
+
+======
+### Ivory Cast
 
 ![iraq-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/ivory-coast_logo.png)
 
@@ -365,11 +428,25 @@
 ![japan-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/japan_name_logo.png)
 
 ======
+### Jordan
+
+![jordan-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/jordan_logo.png)
+
+![jordan-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/jordan_name_logo.png)
+
+======
 ### Kazakhstan
 
 ![kazakhstan-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kazakhstan_logo.png)
 
 ![kazakhstan-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kazakhstan_name_logo.png)
+
+======
+### Kenya
+
+![kenya-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/kenya_logo.png)
+
+![kenya-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/kenya_name_logo.png)
 
 ======
 ### Kiribati
