@@ -568,6 +568,90 @@
 ![macedonia-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/macedonia_name_logo.png)
 
 ======
+### Madagascar
+
+![madagascar-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/madagascar_logo.png)
+
+![madagascar-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/madagascar_name_logo.png)
+
+======
+### Malawi
+
+![malawi-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/malawi_logo.png)
+
+![malawi-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/malawi_name_logo.png)
+
+======
+### Malaysia
+
+![malaysia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/malaysia_logo.png)
+
+![malaysia-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/malaysia_name_logo.png)
+
+======
+### Mali
+
+![mali-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mali_logo.png)
+
+![mali-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mali_name_logo.png)
+
+======
+### Malta
+
+![malta-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/malta_logo.png)
+
+![malta-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/malta_name_logo.png)
+
+======
+### Mauritania
+
+![mauritania-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mauritania_logo.png)
+
+![mauritania-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mauritania_name_logo.png)
+
+======
+### Mauritius
+
+![mauritius-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mauritius_logo.png)
+
+![mauritius-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mauritius_name_logo.png)
+
+======
+### Mayotte
+
+![mayotte-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mayotte_logo.png)
+
+![mayotte-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mayotte_name_logo.png)
+
+======
+### Mexico
+
+![mexico-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mexico_logo.png)
+
+![mexico-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mexico_name_logo.png)
+
+======
+### Micronesia
+
+![micronesia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/micronesia_logo.png)
+
+![micronesia-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/micronesia_name_logo.png)
+
+======
+### Moldova
+
+![moldova-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/moldova_logo.png)
+
+![moldova-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/moldova_name_logo.png)
+
+======
+### Monaco
+
+![monaco-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/monaco_logo.png)
+
+![monaco-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/monaco_name_logo.png)
+
+======
 ### Morocco
 
 ![morocco-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/morocco_logo.png)
