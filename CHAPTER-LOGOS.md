@@ -652,11 +652,60 @@
 ![monaco-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/monaco_name_logo.png)
 
 ======
+### Mongolia
+
+![mongolia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mongolia_logo.png)
+
+![mongolia-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mongolia_name_logo.png)
+
+======
+### Montenegro
+
+![montenegro-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/montenegro_logo.png)
+
+![montenegro-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/montenegro_name_logo.png)
+
+======
+### Montserrat
+
+![montserrat-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/montserrat_logo.png)
+
+![montserrat-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/montserrat_name_logo.png)
+
+======
 ### Morocco
 
 ![morocco-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/morocco_logo.png)
 
 ![morocco-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/morocco_name_logo.png)
+
+======
+### Mozambique
+
+![mozambique-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mozambique_logo.png)
+
+![mozambique-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/mozambique_name_logo.png)
+
+======
+### Myanmar
+
+![myanmar-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/myanmar_logo.png)
+
+![myanmar-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/myanmar_name_logo.png)
+
+======
+### Namibia
+
+![namibia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/namibia_logo.png)
+
+![namibia-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/namibia_name_logo.png)
+
+======
+### Nauru
+
+![nauru-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/nauru_logo.png)
+
+![nauru-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/nauru_name_logo.png)
 
 ======
 ### Netherlands
@@ -671,6 +720,27 @@
 ![NetherlandsA-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/Netherlands_Antilles_logo.png)
 
 ![NetherlandsA-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/Netherlands_Antilles_name_logo.png)
+
+======
+### New Caledonia
+
+![new_caledonia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/new_caledonia_logo.png)
+
+![new_caledonia-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/new_caledonia_name_logo.png)
+
+======
+### Niger
+
+![niger-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/niger_logo.png)
+
+![niger-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/niger_name_logo.png)
+
+======
+### Nigeria
+
+![nigeria-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/nigeria_logo.png)
+
+![nigeria-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/nigeria_name_logo.png)
 
 ======
 ### Pakistan
