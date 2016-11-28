@@ -1086,6 +1086,13 @@
 ![turkmenistan-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/turkmenistan_name_logo.png)
 
 ======
+### United Arab Emirates
+
+![united-arab-emirates-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united-arab-emirates_logo.png)
+
+![united-arab-emirates-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united-arab-emirates_name_logo.png)
+
+======
 ### United States
 
 ![united-states-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united-states_logo.png)
