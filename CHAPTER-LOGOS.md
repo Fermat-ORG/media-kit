@@ -1002,11 +1002,67 @@
 ![swaziland-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/swaziland_name_logo.png)
 
 ======
+### Sweden
+
+![sweden-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/sweden_logo.png)
+
+![sweden-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/sweden_name_logo.png)
+
+======
 ### Switzerland
 
 ![switzerland-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/switzerland_logo.png)
 
 ![switzerland-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/switzerland_name_logo.png)
+
+======
+### Taiwan
+
+![taiwan-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/taiwan_logo.png)
+
+![taiwan-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/taiwan_name_logo.png)
+
+======
+### Tajikistan
+
+![tajikistan-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/tajikistan_logo.png)
+
+![tajikistan-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/tajikistan_name_logo.png)
+
+======
+### Tanzania
+
+![tanzania-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/tanzania_logo.png)
+
+![tanzania-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/tanzania_name_logo.png)
+
+======
+### Thailand
+
+![thailand-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/thailand_logo.png)
+
+![thailand-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/thailand_name_logo.png)
+
+======
+### Togo
+
+![togo-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/togo_logo.png)
+
+![togo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/togo_name_logo.png)
+
+======
+### Tonga
+
+![tonga-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/tonga_logo.png)
+
+![tonga-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/tonga_name_logo.png)
+
+======
+### Trinidad and Tobago
+
+![trinidad_and_tobago] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/trinidad_and_tobago_logo.png)
+
+![trinidad_and_tobago] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/trinidad_and_tobago_name_logo.png)
 
 ======
 ### Turkey
