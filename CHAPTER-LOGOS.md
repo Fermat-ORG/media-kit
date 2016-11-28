@@ -204,6 +204,13 @@
 ![cental_african_republic-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/cental_african_republic_name_logo.png)
 
 ======
+### Chad
+
+![chad-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/chad_logo.png)
+
+![chad-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/chad_name_logo.png)
+
+======
 ### Chile
 
 ![chile-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/chile_logo.png)
@@ -251,6 +258,13 @@
 ![cuba-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/cuba_logo.png)
 
 ![cuba-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/cuba_name_logo.png)
+
+======
+### Cyprus
+
+![cyprus-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cyprus_logo.png)
+
+![cyprus-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cyprus_name_logo.png)
 
 ======
 ### Czech Republic
