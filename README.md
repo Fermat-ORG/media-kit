@@ -28,15 +28,19 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/L
 ### Fermat Internet of people Logo 
 ------
 ![IoP 1920X1920](https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/IoP%20Branding/internet-of_people_logo_1920x1920.png)
+------
 ![IoP 1920X1920-globe](https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/IoP%20Branding/internet-of_globe_1920x1920.png)
 
 ![IoP_logo_515x512](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IoP%20Branding/internet-of-people_logo_512x512.png)
+------
 ![IoP_logo_515x512-globe](https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/IoP%20Branding/internet-of_globe_512x512.png)
 
 ![IoP_logo_256x256](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IoP%20Branding/internet-of-people_logo_256x256.png)
+------
 ![IoP_logo_256x256-globe](https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/IoP%20Branding/internet-of_globe_256x256.png)
 
 ![IoP_logo_128x128](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IoP%20Branding/internet-of-people_logo_128x128.png)
+------
 ![IoP_logo_128x128-globe](https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/IoP%20Branding/internet-of_globe_128x128.png)
 
 <br><br>
