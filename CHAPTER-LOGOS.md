@@ -302,6 +302,13 @@
 ![dominica-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/dominica_name_logo.png)
 
 ======
+### Dominican Republic
+
+![dominicanrepublic-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/dominicanrepublic_logo.png)
+
+![dominicanrepublic-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/dominicanrepublic_name_logo.png)
+
+======
 ### Ecuador
 
 ![ecuador-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/ecuador_logo.png)
@@ -365,6 +372,20 @@
 ![french-guiana-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/french_guiana_name_logo.png)
 
 ======
+### French Polynesia
+
+![french-polynesia] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/french_polynesia_logo.png)
+
+![french_polynesia-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/french_polynesia_name_logo.png)
+
+======
+### French Southern Territories
+
+![french-polynesia] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/french_southern_territories_logo.png)
+
+![french_polynesia-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/french_southern_territories_name_logo.png)
+
+======
 ### Gabon
 
 ![gabon-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/gabon_logo.png)
@@ -377,6 +398,13 @@
 ![gambia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/gambia_logo.png)
 
 ![gambia-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/gambia_name_logo.png)
+
+======
+### Georgia
+
+![georgia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/georgia_logo.png)
+
+![georgia-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/georgia_name_logo.png)
 
 ======
 ### Germany
@@ -447,6 +475,13 @@
 ![guinea-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guinea_logo.png)
 
 ![guinea-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guinea_name_logo.png)
+
+======
+### Haiti
+
+![haiti-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/haiti_logo.png)
+
+![haiti-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/haiti_name_logo.png)
 
 ======
 ### Hungary
