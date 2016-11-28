@@ -20,6 +20,14 @@
 ![Fermat_logo_256x256](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_org_logo_256x256.png)
 
 ![Fermat_logo_128x128](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_org_logo_128x128.png)
+-----
+![Fermat_globe_1920X1920](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_org_globe_1920x1920.png)
+
+![Fermat_globe_515x512](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_org_globe_512x512.png)
+
+![Fermat_globe_256x256](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_org_globe_256.png)
+
+![Fermat_globe_128x128](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_org_globe_128x128.png)
 
 Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/Logotype) to get all logo files.
 
