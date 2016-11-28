@@ -1065,11 +1065,25 @@
 ![trinidad_and_tobago] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/trinidad_and_tobago_name_logo.png)
 
 ======
+### Tunisia
+
+![tunisia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/tunisia_logo.png)
+
+![tunisia-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/tunisia_name_logo.png)
+
+======
 ### Turkey
 
 ![turkey-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/turkey_logo.png)
 
 ![turkey-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/turkey_name_logo.png)
+
+======
+### Turkmenistan
+
+![turkmenistan-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/turkmenistan_logo.png)
+
+![turkmenistan-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/turkmenistan_name_logo.png)
 
 ======
 ### United States
@@ -1108,12 +1122,17 @@
 
 ![venezuela-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/venezuela_name_logo.png)
 
+======
+### Yemen
 
+![yemen-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/yemen_logo.png)
 
+![yemen-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/yemen_name_logo.png)
 
+======
+### Zambia
 
+![zambia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/zambia_logo.png)
 
-
-
-
+![zambia-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/zambia_name_logo.png)
 
