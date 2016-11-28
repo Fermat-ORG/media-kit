@@ -27,7 +27,7 @@ Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/L
 
 ### Fermat Internet of people Logo 
 ------
-![IoP 1920X1920](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IoP%20Branding/internet-of.people_logo_1920x1920.png)
+![IoP 1920X1920]()
 
 ![IoP_logo_515x512](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IoP%20Branding/internet-of-people_logo_512x512.png)
 
