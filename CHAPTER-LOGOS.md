@@ -288,13 +288,6 @@
 ![djibouti-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/djibouti_name_logo.png)
 
 ======
-### East Timor
-
-![east-timor-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/east-timor_logo.png)
-
-![east-timor-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/east-timor_name_logo.png)
-
-======
 ### Dominica
 
 ![dominica-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/dominica_logo.png)
@@ -307,6 +300,13 @@
 ![dominicanrepublic-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/dominicanrepublic_logo.png)
 
 ![dominicanrepublic-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/dominicanrepublic_name_logo.png)
+
+======
+### East Timor
+
+![east-timor-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/east-timor_logo.png)
+
+![east-timor-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/east-timor_name_logo.png)
 
 ======
 ### Ecuador
