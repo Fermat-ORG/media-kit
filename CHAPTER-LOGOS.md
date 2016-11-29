@@ -1233,15 +1233,46 @@
 ![united-states-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united-states_name_logo.png)
 
 #### ESTATES
+
+#### Alabama
+![alabama-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/alabama_US_logo.png)
+
+![alabama-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/alabama_US_name_logo.png)
+
+#### Alaska
+![alaska-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/alaska_US_logo.png)
+
+![alaska-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/alaska_US_name_logo.png)
+
+#### Arizona
+![arizona-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/arizona_US_logo.png)
+
+![arizona-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/arizona_US_name_logo.png)
+
+#### Arkansas
+![arkansas-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/arkansas_logo.png)
+
+![arkansas-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/arkansas_name_logo.png)
+
 #### California
 ![california-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/california_US_logo.png)
 
 ![california-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/california_US_name_logo.png)
 
+#### Hawaii
+![hawaii-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/hawaii_us_logo.png)
+
+![hawaii-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/hawaii_us_name_logo.png)
+
 #### Indiana
 ![indiana-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/indiana_us_logo.png)
 
 ![indiana-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/indiana_us_name_logo.png)
+
+#### Iowa
+![iowa-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/iowa-us_logo.png)
+
+![iowa-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/iowa-us_name_logo.png)
 
 #### New York
 ![newyork-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/newyork_logo.png)
