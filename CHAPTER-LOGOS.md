@@ -1256,11 +1256,39 @@
 ![united-kingdom-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united_kingdom_name_logo.png)
 
 ======
+### Uzbekistan
+
+![uzbekistan-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/uzbekistan_logo.png)
+
+![uzbekistan-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/uzbekistan_name_logo.png)
+
+======
+### Vatican City State
+
+![vatican_city_state-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/vatican_city_state_logo.png)
+
+![vatican_city_state-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/vatican_city_state_name_logo.png)
+
+======
 ### Venezuela
 
 ![venezuela-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/venezuela_logo.png)
 
 ![venezuela-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/venezuela_name_logo.png)
+
+======
+### Vietnam
+
+![vietnam-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/vietnam_logo.png)
+
+![vietnam-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/vietnam_name_logo.png)
+
+======
+### Westernsahara
+
+![westernsahara-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/westernsahara_logo.png)
+
+![westernsahara-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/westernsahara_name_logo.png)
 
 ======
 ### Yemen
@@ -1275,4 +1303,11 @@
 ![zambia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/zambia_logo.png)
 
 ![zambia-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/zambia_name_logo.png)
+
+======
+### Zimbabwe
+
+![zimbabwe-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/zimbabwe_logo.png)
+
+![zimbabwe-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/zimbabwe_name_logo.png)
 
