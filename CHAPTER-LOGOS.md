@@ -491,6 +491,13 @@
 ![hungary-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/hungary_name_logo.png)
 
 ======
+### Iceland
+
+![iceland-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/iceland_logo.png)
+
+![iceland-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/iceland_name_logo.png)
+
+======
 ### India
 
 ![india-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/india_logo.png)
@@ -517,6 +524,13 @@
 ![ireland-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/ireland_logo.png)
 
 ![ireland-logo-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/ireland_name_logo.png)
+
+======
+### Israel
+
+![israel-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/israel_logo.png)
+
+![israel-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/israel_name_logo.png)
 
 ======
 ### Italy
@@ -638,6 +652,13 @@
 ![luxembourg-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/luxembourg_name_logo.png)
 
 ======
+### Macao
+
+![macao-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/macao_logo.png)
+
+![macao-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/macao_name_logo.png)
+
+======
 ### Macedonia
 
 ![macedonia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/macedonia_logo.png)
@@ -664,6 +685,13 @@
 ![malaysia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/malaysia_logo.png)
 
 ![malaysia-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/malaysia_name_logo.png)
+
+======
+### Maldives
+
+![maldives-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/maldives_logo.png)
+
+![maldives-logo-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/maldives_name_logo.png)
 
 ======
 ### Mali
@@ -785,6 +813,13 @@
 ![nauru-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/nauru_name_logo.png)
 
 ======
+### Nepal
+
+![nepal-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/nepal_logo.png)
+
+![nepal-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/nepal_name_logo.png)
+
+======
 ### Netherlands
 
 ![Netherlands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/netherlands_logo.png)
@@ -804,6 +839,13 @@
 ![new_caledonia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/new_caledonia_logo.png)
 
 ![new_caledonia-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/new_caledonia_name_logo.png)
+
+======
+### New Zealand
+
+![new_zealand-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/new_zealand_logo.png)
+
+![new_zealand-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/new_zealand_name_logo.png)
 
 ======
 ### Niger
@@ -853,6 +895,13 @@
 ![palau-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/palau_logo.png)
 
 ![palau-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/palau_name_logo.png)
+
+======
+### Palestine
+
+![palestine-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/palestine_logo.png)
+
+![palestine-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/palestine_name_logo.png)
 
 ======
 ### Panama
