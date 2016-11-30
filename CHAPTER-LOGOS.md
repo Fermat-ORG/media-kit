@@ -754,6 +754,11 @@
 ![puerto_rico-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/puerto_rico_logo.png)
 
 ======
+### Republic of the Congo
+
+![republic-of-the-congo-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/republic-of-the-congo_logo.png)
+
+======
 ### Romania
 
 ![romania-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/romania_logo.png)
@@ -762,6 +767,11 @@
 ### Russia
 
 ![russia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/russia_logo.png)
+
+======
+### Saint Kitts and Nevis
+
+![russia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/saint-kitts-and-nevis_logo.png)
 
 ======
 ### Saint Helena Ascension and Tristan da Cunha
@@ -794,9 +804,24 @@
 ![saintbarthelemy-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/saintbarthelemy_logo.png)
 
 ======
+### Samoa
+
+![samoa-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/samoa_logo.png)
+
+======
+### San Marino
+
+![san-marino-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/san-marino_logo.png)
+
+======
 ### Sao Tome and Principe
 
 ![sao_tome_and_principe-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/sao_tome_and_principe_logo.png)
+
+======
+### Saudi Arabia
+
+![saudi-arabia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/saudi-arabia_logo.png)
 
 ======
 ### Senegal
@@ -834,6 +859,11 @@
 ![slovenia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/slovenia_logo.png)
 
 ======
+### Solomon Islands
+
+![solomon_islands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/solomon_islands_logo.png)
+
+======
 ### Somalia
 
 ![somalia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/somalia_logo.png)
@@ -847,6 +877,11 @@
 ### South Korea
 
 ![south-korea-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/south-korea_logo.png)
+
+======
+### south Georgia and the South Sandwich Islands
+
+![south_georgia_and_the_south_sandwich_islands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/south_georgia_and_the_south_sandwich_islands_logo.png)
 
 ======
 ### Spain
@@ -887,6 +922,11 @@
 ### Switzerland
 
 ![switzerland-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/switzerland_logo.png)
+
+======
+### Syria
+
+![syria-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/syria_logo.png)
 
 ======
 ### Taiwan
