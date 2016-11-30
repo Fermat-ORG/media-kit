@@ -6,13 +6,9 @@
 
 ![afghanistan-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/afghanistan_logo.png)
 
-![afghanistan-name] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/afghanistan_name_logo.png)
-
 ### Albania
 
 ![albania-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/albania_logo.png)
-
-![albania-name] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/albania_name_logo.png)
 
 ======
 ### Algeria
