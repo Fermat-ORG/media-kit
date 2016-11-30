@@ -13,27 +13,43 @@
 
 ### Fermat Logo 
 ------
-![Fermat_logo_v2_1920X1920](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Logotype/fermat_logo_3D/Fermat_logo_v2_1920X1920.png)
+![Fermat_logo_1920X1920](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_org_logo_1920x1920.png)
 
-![Fermat_logo_v2_515x512](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Logotype/fermat_logo_3D/Fermat_logo_v2_512x512.png)
+![Fermat_logo_515x512](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_org_logo_512x512.png)
 
-![Fermat_logo_v2_256x256](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Logotype/fermat_logo_3D/Fermat_logo_v2_256x256.png)
+![Fermat_logo_256x256](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_org_logo_256x256.png)
 
-![Fermat_logo_v2_128x128](https://raw.githubusercontent.com/Fermat-ORG/media-kit/master/MediaKit/Logotype/fermat_logo_3D/Fermat_logo_v2_128x128.png)
+![Fermat_logo_128x128](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_org_logo_128x128.png)
+-----
+![Fermat_globe_1920X1920](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_org_globe_1920x1920.png)
+
+![Fermat_globe_515x512](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_org_globe_512x512.png)
+
+![Fermat_globe_256x256](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_org_globe_256.png)
+
+![Fermat_globe_128x128](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Fermat%20Branding/Fermat%20Logotype/Fermat_org_globe_128x128.png)
 
 Click [ **here** ] (https://github.com/bitDubai/media-kit/tree/master/MediaKit/Logotype) to get all logo files.
 
 <br><br>
 
 ### Fermat Internet of people Logo 
+
+![IoP 1920X1920](https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/IoP%20Branding/internet-of_people_logo_1920x1920.png)
+
+![IoP_logo_515x512](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IoP%20Branding/internet-of-people_logo_512x512.png)
+
+![IoP_logo_256x256](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IoP%20Branding/internet-of-people_logo_256x256.png)
+
+![IoP_logo_128x128](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/IoP%20Branding/internet-of-people_logo_128x128.png)
 ------
-![Fermat_logo_v2_1280X1280](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/fermat_logo_internet_of_people/fermat_internet_of_people_logo_1280x1280.png)
+![IoP 1920X1920-globe](https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/IoP%20Branding/internet-of_globe_1920x1920.png)
 
-![Fermat_logo_v2_515x512](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/fermat_logo_internet_of_people/fermat_internet_of_people_logo_512x512.png)
+![IoP_logo_515x512-globe](https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/IoP%20Branding/internet-of_globe_512x512.png)
 
-![Fermat_logo_v2_256x256](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/fermat_logo_internet_of_people/fermat_internet_of_people_logo_256x256.png)
+![IoP_logo_256x256-globe](https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/IoP%20Branding/internet-of_globe_256x256.png)
 
-![Fermat_logo_v2_128x128](https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Logotype/fermat_logo_internet_of_people/fermat_internet_of_people_logo_128x128.png)
+![IoP_logo_128x128-globe](https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/IoP%20Branding/internet-of_globe_128x128.png)
 
 <br><br>
 
