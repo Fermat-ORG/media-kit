@@ -53,4 +53,22 @@
 #### Tennessee
 ![tennessee-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/tennessee_US_logo.png)
 
+#### Texas
+![texas-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/texas_US_logo.png)
+
+#### Virginia
+![virginia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/virginia_us_logo.png)
+
+#### Washington
+![washington-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/washington-us_logo.png)
+
+#### West Virginia
+![west-virginia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/west-virginia-us_logo.png)
+
+#### Wisconsin
+![wisconsin-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/wisconsin-us_logo.png)
+
+
+
+
 
