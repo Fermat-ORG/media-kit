@@ -26,6 +26,31 @@
 #### Iowa
 ![iowa-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/iowa-us_logo.png)
 
+#### New Mexico
+![newmexico-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/newmexico_US_logo.png)
+
 #### New York
 ![newyork-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/newyork_logo.png)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 TA 
+
+#### North Carolina
+![northcarolina-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/northcarolina_US_logo.png)
+
+#### North Dakota
+![northdakota-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/northdakota_US_logo.png)
+
+#### Ohio
+![ohio-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/ohio_US_logo.png)
+
+#### Rhode Island
+![rhode_island-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/rhode_island_US_logo.png)
+
+#### South Carolina
+![south_carolina-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/south_carolina_US_logo.png)
+
+#### South Dakota
+![south_dakota-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/south_dakota_US_logo.png)
+
+#### Tennessee
+![tennessee-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/tennessee_US_logo.png)
+
+
