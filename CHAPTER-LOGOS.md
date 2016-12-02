@@ -55,6 +55,11 @@
 ![argentina-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/argentina_logo.png)
 
 ======
+### Australia
+
+![australia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/australia_logo.png)
+
+======
 ### Austria
 
 ![austria-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/austria_logo.png)
@@ -70,10 +75,14 @@
 ![bahamas-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bahamas_logo.png)
 
 ======
+### Bahrain
+
+![bahrain-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bahrain_logo.png)
+
+======
 ### Bangladesh
 
 ![bangladesh-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bangladesh_logo.png)
-
 
 ======
 ### Barbados
@@ -131,6 +140,10 @@
 
 ![brazil-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/brazil_logo.png)
 
+======
+### British Indian Ocean Territory
+
+![british indian_ocean_territory-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/british%20_indian_ocean_territory_logo.png)
 
 ======
 ### Brunei
@@ -156,6 +169,21 @@
 ### Cambodia
 
 ![cambodia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cambodia_logo.png)
+
+======
+### Cameroon
+
+![cameroon-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cameroon_logo.png)
+
+======
+### Canada
+
+![canada-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/canada_logo.png)
+
+======
+### Cape Verde
+
+![capeverde-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/capeverde_logo.png)
 
 ======
 ### Cayman Islands
@@ -391,7 +419,12 @@
 ======
 ### Heard Island and Mcdonald Islands
 
-![haiti-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/heard_island_and_mcdonald_islands_logo.png)
+![Heard-Islan-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/heard_island_and_mcdonald_islands_logo.png)
+
+======
+### Honduras
+
+![honduras-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/honduras_logo.png)
 
 ======
 ### Hong Kong
@@ -692,6 +725,11 @@
 ### Niue
 
 ![niue-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/niue_logo.png)
+
+======
+### Norfolk Island
+
+![norfolk_island-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/norfolk_island_logo.png)
 
 ======
 ### Norway
