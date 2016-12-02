@@ -257,6 +257,11 @@
 ![czech-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/czech_republic_logo.png)
 
 ======
+### Democratic Republic of the Congo
+
+![democratic-republic-of-the-congo-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/democratic-republic-of-the-congo_logo.png)
+
+======
 ### Denmark
 
 ![denmark-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/denmark_logo.png)
@@ -822,6 +827,11 @@
 ![republic-of-the-congo-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/republic-of-the-congo_logo.png)
 
 ======
+### Reunion
+
+![republic-of-the-congo-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/reunion_logo.png)
+
+======
 ### Romania
 
 ![romania-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/romania_logo.png)
@@ -1022,6 +1032,11 @@
 ![togo-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/togo_logo.png)
 
 ======
+### Tokelau
+
+![tokelau-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/tokelau_logo.png)
+
+======
 ### Tonga
 
 ![tonga-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/tonga_logo.png)
@@ -1075,6 +1090,16 @@
 ### United Kingdom
 
 ![united-kingdom-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united_kingdom_logo.png)
+
+======
+### United States Minor Outlying Islands
+
+![united_states_minor_outlying_islands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united_states_minor_outlying_islands_logo.png)
+
+======
+### United States Virgin Islands
+
+![united_states_minor_outlying_islands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united_states_virgin_islands_logo.png)
 
 ======
 ### Uzbekistan
