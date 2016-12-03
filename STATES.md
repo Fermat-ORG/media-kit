@@ -62,6 +62,24 @@
 #### Minnesota
 ![minnesota-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/minnesota_US_logo.png)
 
+#### Mississippi
+![minnesota-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/mississippi_US_logo.png)
+
+#### Missouri
+![missouri-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/missouri_US_logo.png)
+
+#### Montana
+![montana-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/montana_US_logo.png)
+
+#### Nebraska
+![nebraska-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/nebraska_US_logo.png)
+
+#### Nevada
+![nebraska-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/nevada_US_logo.png)
+
+#### New Hampshire
+![new-hampshire-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/new-hampshire_US_logo.png)
+
 #### New Mexico
 ![newmexico-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/newmexico_US_logo.png)
 
@@ -92,6 +110,12 @@
 #### Texas
 ![texas-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/texas_US_logo.png)
 
+#### Utah
+![utah-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/utah_US_logo.png)
+
+#### Vermont
+![vermont-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/vermont_US_logo.png)
+
 #### Virginia
 ![virginia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/virginia_us_logo.png)
 
@@ -103,6 +127,9 @@
 
 #### Wisconsin
 ![wisconsin-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/wisconsin-us_logo.png)
+
+#### Wyoming
+![wisconsin-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/STATES/united_states/wyoming-us_logo.png)
 
 
 
