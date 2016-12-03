@@ -877,7 +877,7 @@
 ![saint_vincent_and_the_grenadines-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/saint_vincent_and_the_grenadines_logo.png)
 
 ======
-### Saintbarthelemy
+### Saint Barthelemy
 
 ![saintbarthelemy-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/saintbarthelemy_logo.png)
 
@@ -957,7 +957,7 @@
 ![south-korea-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/south-korea_logo.png)
 
 ======
-### south Georgia and the South Sandwich Islands
+### South Georgia and the South Sandwich Islands
 
 ![south_georgia_and_the_south_sandwich_islands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/south_georgia_and_the_south_sandwich_islands_logo.png)
 
@@ -1137,7 +1137,7 @@
 ![wallis_and_futuna-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/wallis_and_futuna_logo.png)
 
 ======
-### Westernsahara
+### Western Sahara
 
 ![westernsahara-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/westernsahara_logo.png)
 
