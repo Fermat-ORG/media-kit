@@ -1127,6 +1127,11 @@
 ![united_states_minor_outlying_islands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united_states_virgin_islands_logo.png)
 
 ======
+### Uruguay
+
+![uruguay-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/uruguay_logo.png)
+
+======
 ### Uzbekistan
 
 ![uzbekistan-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/uzbekistan_logo.png)
