@@ -55,6 +55,11 @@
 ![argentina-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/argentina_logo.png)
 
 ======
+### Armenia
+
+![armenia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/armenia_logo.png)
+
+======
 ### Australia
 
 ![australia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/australia_logo.png)
@@ -317,6 +322,16 @@
 ![ethiopia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/ethiopia_logo.png)
 
 ======
+### Falkland
+
+![falkland-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/falkland_islands_logo.png)
+
+======
+### Faroe Islands
+
+![faroe_islands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/faroe_islands_logo.png)
+
+======
 ### Fiji
 
 ![fiji-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/fiji_logo.png)
@@ -415,6 +430,11 @@
 ### Guinea
 
 ![guinea-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guinea_logo.png)
+
+======
+### Guyana
+
+![guyana-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/guyana_logo.png)
 
 ======
 ### Haiti
@@ -1072,6 +1092,11 @@
 ![tuvalu-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/tuvalu_logo.png)
 
 ======
+### Uganda
+
+![uganda-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/uganda_logo.png)
+
+======
 ### Ukraine
 
 ![ukraine-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/ukraine_logo.png)
@@ -1100,6 +1125,11 @@
 ### United States Virgin Islands
 
 ![united_states_minor_outlying_islands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/united_states_virgin_islands_logo.png)
+
+======
+### Uruguay
+
+![uruguay-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/uruguay_logo.png)
 
 ======
 ### Uzbekistan
