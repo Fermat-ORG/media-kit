@@ -6,6 +6,8 @@
 
 ![afghanistan-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/afghanistan_logo.png)
 
+![afghanistan-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/afghanistan_logo_500.png)
+
 ### Aland Islands
 
 ![aland_islands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/aland_islands_logo.png)
