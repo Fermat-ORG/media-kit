@@ -12,49 +12,69 @@
 
 ![aland_islands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/aland_islands_logo.png)
 
+![aland_islands-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/aland_islands_logo_500.png)
+
 ### Albania
 
 ![albania-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/albania_logo.png)
+
+![albania-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/albania_logo_500.png)
 
 ======
 ### Algeria
 
 ![algeria-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/algeria_logo.png)
 
+![algeria-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/algeria_logo_500.png)
+
 ======
 ### American Samoa
 
 ![american-samoa-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/american-samoa_logo.png)
+
+![american-samoa-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/american-samoa_logo_500.png)
 
 ======
 ### Andorra
 
 ![andorra-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/andorra_logo.png)
 
+![andorra-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/andorra_logo_500.png)
+
 ======
 ### Angola
 
 ![angola-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/angola_logo.png)
 
+![angola-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/angola_logo_500.png)
+
 ======
 ### Anguilla
 
-![anguilla-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/anguilla_logo.png)
+![anguilla-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/anguilla_logo.png)
+
+![anguilla-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/anguilla_logo_500.png)
 
 ======
 ### Antarctica
 
 ![antarctica-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/antarctica_logo.png)
 
+![antarctica-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/antarctica_logo_500.png)
+
 ======
 ### Antigua and Barbuda
 
 ![antigua_and_barbuda-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/antigua_and_barbuda_logo.png)
 
+![antigua_and_barbuda-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/antigua_and_barbuda_logo_500.png)
+
 ======
 ### Argentina
 
 ![argentina-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/argentina_logo.png)
+
+![argentina-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/argentina_logo_500.png)
 
 ======
 ### Armenia
@@ -66,70 +86,98 @@
 
 ![australia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/australia_logo.png)
 
+![australia-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/australia_logo_500.png)
+
 ======
 ### Austria
 
 ![austria-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/austria_logo.png)
+
+![austria-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/austria_logo_500.png)
 
 ======
 ### Azerbaijan
 
 ![azerbaijan-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/azerbaijan_logo.png)
 
+![azerbaijan-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/azerbaijan_logo_500.png)
+
 ======
 ### Bahamas
 
 ![bahamas-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bahamas_logo.png)
+
+![bahamas-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bahamas_logo_500.png)
 
 ======
 ### Bahrain
 
 ![bahrain-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bahrain_logo.png)
 
+![bahrain-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bahrain_logo_500.png)
+
 ======
 ### Bangladesh
 
 ![bangladesh-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bangladesh_logo.png)
+
+![bangladesh-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bangladesh_logo_500.png)
 
 ======
 ### Barbados
 
 ![barbados-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/barbados_logo.png)
 
+![barbados-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/barbados_logos_500.png)
+
 ======
 ### Belarus
 
 ![belarus-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/belarus_logo.png)
+
+![belarus-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/belarus_logo_500.png)
 
 ======
 ### Belgium
 
 ![belgium-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/belgium_logo.png)
 
+![belgium-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/belgium_logo_500.png)
+
 ======
 ### Belize
 
 ![belize-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/belize_logo.png)
+
+![belize-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/belize_logo_500.png)
 
 ======
 ### Benin
 
 ![benin-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/benin_logo.png)
 
+![benin-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/benin_logo_500.png)
+
 ======
 ### Bermuda Islands
 
 ![bermuda_islands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bermuda_islands_logo.png)
 
+![bermuda_islands-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bermuda_islands_logo_500.png)
+
 ======
 ### Bhutan
 
-![bhutan-logo] (https://github.com/ivonnesantos/media-kit/blob/master/MediaKit/Region-Logos/bhutan_logo.png)
+![bhutan-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bhutan_logo.pngg)
+
+![bhutan-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bhutan_logo_500.png)
 
 ======
 ### Bolivia
 
-![bolivia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bolivia_logo-01.png)
+![bolivia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bolivia_logo.png)
+
+![bolivia-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bolivia_logo_500.png)
 
 
 ======
@@ -137,75 +185,106 @@
 
 ![bosnia-h-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bosnia-and-herzegovina_logo.png)
 
+![bosnia-h-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bosnia-and-herzegovina_logo_500.png)
+
 ======
 ### Bostwana
 
 ![bostwana-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bostwana_logo.png)
+
+![bostwana-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bostwana_logo_500.png)
 
 ======
 ### Brazil
 
 ![brazil-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/brazil_logo.png)
 
+![brazil-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/brazil_logo_500.png)
+
 ======
 ### British Indian Ocean Territory
 
 ![british indian_ocean_territory-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/british%20_indian_ocean_territory_logo.png)
+
+![british indian_ocean_territory-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/british%20_indian_ocean_territory_logo_500.png)
 
 ======
 ### Brunei
 
 ![brunei-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/brunei_logo.png)
 
+![brunei-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/brunei_logo_500.png)
+
+
 ======
 ### Bulgaria
 
 ![bulgaria-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bulgaria_logo.png)
+
+![bulgaria-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/bulgaria_logo_500.png)
 
 ======
 ### Burkina
 
 ![burkina-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/burkina_faso_logo.png)
 
+![burkina-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/burkina_faso_logo_500.png)
+
 ======
 ### Burundi
 
 ![burundi-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/burundi_logo.png)
+
+![burundi-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/burundi_logo_500.png)
 
 ======
 ### Cambodia
 
 ![cambodia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cambodia_logo.png)
 
+![cambodia-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cambodia_logo_500.png)
+
 ======
 ### Cameroon
 
 ![cameroon-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cameroon_logo.png)
+
+![cameroon-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cameroon_logo_500.png)
 
 ======
 ### Canada
 
 ![canada-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/canada_logo.png)
 
+![canada-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/canada_logo_500.png)
+
 ======
 ### Cape Verde
 
 ![capeverde-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/capeverde_logo.png)
+
+![capeverde-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/capeverde_logo_500.png)
 
 ======
 ### Cayman Islands
 
 ![cayman_islands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cayman_islands_logo.png)
 
+![cayman_islands-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cayman_islands_logo_500.png)
+
 ======
 ### Cental African Republic
 
 ![cental_african_republic-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cental_african_republic_logo.png)
 
+![cental_african_republic-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cental_african_republic_logo_500.png)
+
 ======
 ### Chad
 
 ![chad-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/chad_logo.png)
+
+![chad-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/chad_logo_500.png)
 
 
 ======
@@ -213,40 +292,56 @@
 
 ![chile-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/chile_logo.png)
 
+![chile-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/chile_logo_500.png)
+
 ======
 ### China
 
 ![china-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/china_logo.png)
+
+![china-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/china_logo_500.png)
 
 ======
 ### Cocos Islands
 
 ![cocos_islands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cocos_islands_logo.png)
 
+![cocos_islands-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cocos_islands_logo_500.png)
+
 ======
 ### Colombia
 
 ![colombia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/colombia_logo.png)
+
+![colombia-logo_500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/colombia_logo_500.png)
 
 ======
 ### Comoros
 
 ![comoros-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/comoros_logo.png)
 
+![comoros-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/comoros_logo_500.png)
+
 ======
 ### Cook Islands
 
 ![cook_islands-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cook_islands_logo.png)
+
+![cook_islands-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cook_islands_logo_500.png)
 
 ======
 ### Costa Rica
 
 ![costa-rica-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/costa-rica_logo.png)
 
+![costa-rica-logo_500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/costa-rica_logo_500.png)
+
 ======
 ### Croatia
 
 ![croatia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/croatia_logo.png)
+
+![croatia-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/croatia_logo_500.png)
 
 ======
 ### Cuba
@@ -258,10 +353,14 @@
 
 ![cyprus-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cyprus_logo.png)
 
+![cyprus-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/cyprus_logo_500.png)
+
 ======
 ### Czech Republic
 
 ![czech-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/czech_republic_logo.png)
+
+![czech-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/czech_republic_logo_500.png)
 
 ======
 ### Democratic Republic of the Congo
