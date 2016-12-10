@@ -1038,6 +1038,13 @@
 ![seychelles-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/seychelles_logo.png)
 
 ======
+### Siberia
+
+![siberia-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/siberia_logo.png)
+
+![siberia-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/siberia_logo_500.png)
+
+======
 ### Sierra Leone
 
 ![sierra-leone-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/sierra_leone_logo.png)
