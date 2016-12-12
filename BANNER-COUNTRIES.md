@@ -63,6 +63,15 @@
 ### Youtube
 ![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/poland_banner_youtube.png)
 
+## Romania
+
+### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/romania_banner_facebook.png)
+### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/romania_banner_twitter.png)
+### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/romania_banner_youtube.png)
+
 ## Turkey
 
 ### Facebook
