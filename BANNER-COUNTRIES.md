@@ -208,6 +208,15 @@
 ### Youtube
 ![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/ghana_banner_youtube.png)
 
+## Greenland
+
+### Facebook
+![facebook] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/greenland_banner_facebook.png)
+### Twitter
+![twitter] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/greenland_banner_twitter.png)
+### Youtube
+![youtube] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/greenland_banner_youtube.png)
+
 ## Guadeloupe
 
 ### Facebook
@@ -235,6 +244,15 @@
 ### Youtube
 ![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/indonesia_banner_youtube.png)
 
+## Iran
+
+### Facebook
+![facebook] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/iran_banner_facebook.png)
+### Twitter
+![twitter] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/iran_banner_twitter.png)
+### Youtube
+![youtube] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/iran_banner_youtube.png)
+
 ## Italy
 
 ### Facebook
@@ -252,6 +270,24 @@
 ![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/japan_banner_twitter.png)
 ### Youtube
 ![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/japan_banner_youtube.png)
+
+## Jordan
+
+### Facebook
+![facebook] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/jordan_banner_facebook.png)
+### Twitter
+![twitter] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/jordan_banner_twitter.png)
+### Youtube
+![youtube] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/jordan_banner_youtube.png)
+
+## Kenia
+
+### Facebook
+![facebook] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/kenya_banner_facebook.png)
+### Twitter
+![twitter] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/kenya_banner_twitter.png)
+### Youtube
+![youtube] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/kenya_banner_youtube.png)
 
 ## Kyrgyzstan
 
@@ -487,6 +523,69 @@
 ### Youtube
 ![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/russia_banner_youtube.png)
 
+## Saint Helena Ascension and Tristan da Cuhna
+
+### Facebook
+![facebook] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/saint-helena-ascension-and-tristan-da-cunha_banner_facebook.png)
+### Twitter
+![twitter] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/saint-helena-ascension-and-tristan-da-cunha_banner_twitter.png)
+### Youtube
+![youtube] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/saint-helena-ascension-and-tristan-da-cunha_banner_youtube.png)
+
+## Saint Lucia
+
+### Facebook
+![facebook] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/saint-lucia_banner_facebook.png)
+### Twitter
+![twitter] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/saint-lucia_banner_twitter.png)
+### Youtube
+![youtube] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/saint-lucia_banner_youtube.png)
+
+## Saint Martin
+
+### Facebook
+![facebook] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/saint-martin_banner_facebook.png)
+### Twitter
+![twitter] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/saint-martin_banner_twitter.png)
+### Youtube
+![youtube] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/saint-martin_banner_youtube.png)
+
+## Saint Pierre and Miquelon
+
+### Facebook
+![facebook] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/saint-pierre-and-miquelon_banner_facebook.png)
+### Twitter
+![twitter] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/saint-pierre-and-miquelon_banner_twitter.png)
+### Youtube
+![youtube] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/saint-pierre-and-miquelon_banner_youtube.png)
+
+## Saint Vicent and the Grenadines
+
+### Facebook
+![facebook] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/saint-vincent-and-the-grenadines_banner_facebook.png)
+### Twitter
+![twitter] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/saint-vincent-and-the-grenadines_banner_twitter.png)
+### Youtube
+![youtube] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/saint-vincent-and-the-grenadines_banner_youtube.png)
+
+## Sao Tome and Principe
+
+### Facebook
+![facebook] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/sao-tome-and-principe_banner_facebook.png)
+### Twitter
+![twitter] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/sao-tome-and-principe_banner_twitter.png)
+### Youtube
+![youtube] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/sao-tome-and-principe_banner_youtube.png)
+
+## Senegal
+
+### Facebook
+![facebook] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/senegal_banner_facebook.png)
+### Twitter
+![twitter] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/senegal_banner_twitter.png)
+### Youtube
+![youtube] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/senegal_banner_youtube_youtube.png)
+
 ## Serbia
 
 ### Facebook
@@ -495,6 +594,33 @@
 ![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/serbia_banner_twitter.png)
 ### Youtube
 ![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/serbia_banner_youtube.png)
+
+## Seychelles
+
+### Facebook
+![facebook] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/seychelles_banner_facebook.png)
+### Twitter
+![twitter] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/seychelles_banner_twitter.png)
+### Youtube
+![youtube] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/seychelles_banner_youtube.png)
+
+## Sierra Leone
+
+### Facebook
+![facebook] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/sierra-leone_banner_facebook.png)
+### Twitter
+![twitter] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/sierra-leone_banner_twitter.png)
+### Youtube
+![youtube] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/sierra-leone_banner_youtube.png)
+
+## Singapore
+
+### Facebook
+![facebook] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/singapore_banner_facebook.png)
+### Twitter
+![twitter] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/singapore_banner_twitter.png)
+### Youtube
+![youtube] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/singapore_banner_youtube.png)
 
 ## Slovakia
 
@@ -513,6 +639,24 @@
 ![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/south-africa_banner_twitter.png)
 ### Youtube
 ![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/south-africa_banner_youtube.png)
+
+## Switzerland
+
+### Facebook
+![facebook] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/switzerland_banner_facebook.png)
+### Twitter
+![twitter] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/switzerland_banner_twitter.png)
+### Youtube
+![youtube] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/switzerland_banner_youtube.png)
+
+## Syria
+
+### Facebook
+![facebook] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/syria_banner_facebook.png)
+### Twitter
+![twitter] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/syria_banner_twitter.png)
+### Youtube
+![youtube] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/syria_banner_youtube.png)
 
 ## Tanzania
 
@@ -549,6 +693,15 @@
 ![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/ukraine_banner_twitter.png)
 ### Youtube
 ![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/ukraine_banner_youtube.png)
+
+## United States of America
+
+### Facebook
+![facebook] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/unitedstates_banner_facebook.png)
+### Twitter
+![twitter] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/unitedstates_banner_twitter.png)
+### Youtube
+![youtube] (https://github.com/rosanacoronado/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/unitedstates_banner_youtube.png)
 
 ## Venezuela
 
