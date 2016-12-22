@@ -281,6 +281,24 @@
 #### Youtube
 ![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/rhode-island-us_banner_youtube.png)
 
+### South Carolina
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/south-carolina-us_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/south-carolina-us_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/south-carolina-us_banner_youtube.png)
+
+### South Dakota
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/south-dakota-us_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/south-dakota-us_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/south-dakota-us_banner_youtube.png)
+
 ### Tennessee
 
 #### Facebook
@@ -299,23 +317,14 @@
 #### Youtube
 ![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/texas-us_banner_youtube.png)
 
-### South Carolina
+### Vermont
 
 #### Facebook
-![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/south-carolina-us_banner_facebook.png)
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/vermont-us_banner_facebook.png)
 #### Twitter
-![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/south-carolina-us_banner_twitter.png)
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/vermont-us_banner_twitter.png)
 #### Youtube
-![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/south-carolina-us_banner_youtube.png)
-
-### South Dakota
-
-#### Facebook
-![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/south-dakota-us_banner_facebook.png)
-#### Twitter
-![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/south-dakota-us_banner_twitter.png)
-#### Youtube
-![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/south-dakota-us_banner_youtube.png)
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/vermont-us_banner_youtube.png)
 
 ### Virginia
 
