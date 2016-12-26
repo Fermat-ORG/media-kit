@@ -137,6 +137,42 @@
 #### Youtube
 ![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/iowa_US_youtube.png)
 
+### Kentucky
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/kentucky-us_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/kentucky-us_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/kentucky-us_banner_youtube.png)
+
+### Louisiana
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/louisiana-us_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/louisiana-us_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/louisiana-us_banner_youtube.png)
+
+### Maine
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/maine-us_banner_facebok.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/maine-us_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/maine-us_banner_youtube.png)
+
+### Maryland
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/maryland-us_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/maryland-us_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/maryland-us_banner_youtube.png)
+
 ### Massachutsetts
 
 #### Facebook
@@ -271,6 +307,33 @@
 ![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/ohio_US_banner_twitter.png)
 #### Youtube
 ![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/ohio_US_banner_youtube.png)
+
+### Oklahoma
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/oklahoma-us_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/oklahoma-us_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/oklahoma-us_banner_youtube.png)
+
+### Oregon
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/oregon-us_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/oregon-us_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/oregon-us_banner_youtube.png)
+
+### Pennsilvania
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/pennsylvania-us_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/pennsylvania-us_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/pennsylvania-us_banner_youtube.png)
 
 ### Rhode Island
 
