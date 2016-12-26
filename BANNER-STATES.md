@@ -137,6 +137,15 @@
 #### Youtube
 ![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/iowa_US_youtube.png)
 
+### Kansas
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/kansas-us_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/kansas-us_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/kansas-us_banner_youtube.png)
+
 ### Kentucky
 
 #### Facebook
