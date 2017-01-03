@@ -432,6 +432,12 @@
 
 ![el-salvador-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/el-salvador_logo_500.png)
 
+### England
+
+![england-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/england_logo.png)
+
+![england-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/england_logo_500.png)
+
 ======
 ### Estonia
 
@@ -747,11 +753,11 @@
 ![kiribati-logo-500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kiribati_logo_500.png)
 
 ======
-### Kuwait
+### Kosovo
 
-![kuwait-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kuwait_logo.png)
+![kosovo-logo] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kosovo_logo.png)
 
-![kuwait-logo_500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kuwait_logo_500.png)
+![kosovo-logo_500] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/Region-Logos/kosovo_logo_500.png)
 
 ======
 ### Kyrgyzstan
