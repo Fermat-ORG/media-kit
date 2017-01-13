@@ -1,5 +1,162 @@
 #States
 
+## Brazil
+<br><br>
+
+### Acre
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/acre-br_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/acre-br_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/acre-br_banner_youtube.png)
+
+### Alagoas
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/alagoas-br_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/alagoas-br_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/alagoas-br_banner_youtube.png)
+
+### Amapa
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/amapa-br_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/amapa-br_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/amapa-br_banner_youtube.png)
+
+### Amazonas
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/amazonas-br_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/amazonas-br_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/amazonas-br_banner_youtube.png)
+
+### Bahia
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/bahia-br_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/bahia-br_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/bahia-br_banner_youtube.png)
+
+### Ceara
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/cear%C3%A1-br_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/cear%C3%A1-br_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/cear%C3%A1-br_banner_youtube.png)
+
+### Distrito Federal
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/distrito-federal-br_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/distrito-federal-br_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/distrito-federal-br_banner_youtube.png)
+
+### Espiritu Santo
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/espiritu-santo-br_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/espiritu-santo-br_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/espiritu-santo-br_banner_youtube.png)
+
+### Goias
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/goias-br_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/goias-br_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/goias-br_banner_youtube.png)
+
+### Maranhao
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/maranhao-br_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/maranhao-br_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/maranhao-br_banner_youtube.png)
+
+### Mato Grosso
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/mato-grosso-banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/mato-grosso-banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/mato-grosso-banner_youtube.png)
+
+### Mato Grosso do Sul
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/mato-grosso-do-sul-br_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/mato-grosso-do-sul-br_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/mato-grosso-do-sul-br_banner_youtube.png)
+
+### Minas Gerais
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/minas-gerais-br_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/minas-gerais-br_banner_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/minas-gerais-br_banner_banner_youtube.png)
+
+### Para
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/para-br_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/para-br_banner_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/para-br_banner_banner_youtube.png)
+
+### Paraiba
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/paraiba-br_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/paraiba-br_banner_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/paraiba-br_banner_banner_youtube.png)
+
+### Parana
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/parana-br_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/parana-br_banner_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/parana-br_banner_banner_youtube.png)
+
+### Pernambuco
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/pernambuco-br_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/pernambuco-br_banner_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/brazil/pernambuco-br_banner_banner_youtube.png)
+
+
 ## Canada
 <br><br>
 
@@ -8,9 +165,9 @@
 #### Facebook
 ![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/canada/quebec_can_banner_facebook.png)
 #### Twitter
-![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/quebec_can_banner_twitter.png)
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/canada/quebec_can_banner_twitter.png)
 #### Youtube
-![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/united_states/quebec_can_banner_youtube.png)
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/canada/quebec_can_banner_youtube.png)
 
 
 ## United States
