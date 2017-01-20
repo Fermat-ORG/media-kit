@@ -170,6 +170,154 @@
 ![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/canada/quebec_can_banner_youtube.png)
 
 
+## Russia
+<br><br>
+
+### Amur Oblast
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/amur-oblast-ru_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/amur-oblast-ru_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/amur-oblast-ru_banner_youtube.png)
+
+### Arkhangelsk Oblast
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/arkhangelsk-oblast-ru_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/arkhangelsk-oblast-ru_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/arkhangelsk-oblast-ru_banner_youtube.png)
+
+### Astrakhan Oblast
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/astrakhan-oblast-ru_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/astrakhan-oblast-ru_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/astrakhan-oblast-ru_banner_youtube.png)
+
+### Belgorod Oblast
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/belgorod-oblast-ru_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/belgorod-oblast-ru_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/belgorod-oblast-ru_banner_youtube.png)
+
+### Bryansk Oblast
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/bryansk-oblast-ru_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/bryansk-oblast-ru_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/bryansk-oblast-ru_banner_youtube.png)
+
+### Chelyabinsk Oblast
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/chelyabinsk-oblast-ru_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/chelyabinsk-oblast-ru_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/chelyabinsk-oblast-ru_banner_youtube.png)
+
+### Irkutsk Oblast
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/irkutsk-oblast-ru_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/irkutsk-oblast-ru_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/irkutsk-oblast-ru_banner_youtube.png)
+ 
+### Ivanovo Oblast
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/ivanovo-oblast-ru_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/ivanovo-oblast-ru_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/ivanovo-oblast-ru_banner_youtube.png)
+
+### Kaliningrad Oblast
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kaliningrad-oblast-ru_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kaliningrad-oblast-ru_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kaliningrad-oblast-ru_banner_youtube.png)
+
+### Kaluga Oblast
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kaluga-oblast-ru_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kaluga-oblast-ru_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kaluga-oblast-ru_banner_youtube.png)
+
+### Kaluga Oblast
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kaluga-oblast-ru_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kaluga-oblast-ru_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kaluga-oblast-ru_banner_youtube.png)
+
+### Kemerovo Oblast
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kemerovo-oblast-ru_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kemerovo-oblast-ru_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kemerovo-oblast-ru_banner_youtube.png)
+
+### Kirov Oblast
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kirov-oblast-ru_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kirov-oblast-ru_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kirov-oblast-ru_banner_youtube.png)
+ 
+### Kostroma Oblast
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kostroma-oblast-ru_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kostroma-oblast-ru_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kostroma-oblast-ru_banner_youtube.png)
+
+### Kurgan Oblast
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kurgan-oblast-ru_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kurgan-oblast-ru_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/kurgan-oblast-ru_banner_youtube.png)
+
+### Zabaykalsky Krai
+
+#### Facebook
+![facebook] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/zabaykalsky-krai-ru_banner_facebook.png)
+#### Twitter
+![twitter] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/zabaykalsky-krai-ru_banner_twitter.png)
+#### Youtube
+![youtube] (https://github.com/Fermat-ORG/media-kit/blob/master/MediaKit/fermat-org_social-media/banners_countries/banners_STATES/russia/zabaykalsky-krai-ru_banner_youtube.png)
+
+
 ## United States
 <br><br>
 
